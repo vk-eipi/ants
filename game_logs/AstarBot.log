@@ -1,0 +1,1388 @@
+INFO:proj.ants:======= GAME BEGINS ======= 
+INFO:proj.ants:== SETUP BEGINS == 
+INFO:proj.ants:Dimensions: (126, 129)
+DEBUG:proj.ants:Used on Locations = 0.226442098618 seconds
+DEBUG:proj.ants:Used on gen_ranges p1 = 1.025551 seconds
+DEBUG:proj.ants:Per cell: 0.418421 milliseconds
+DEBUG:proj.ants:remaining in setup = 1745 milliseconds
+DEBUG:__main__:1741 ms left after bot setup
+INFO:proj.ants:== TURN 1 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 157.367945 ms used, 342.632055 ms remaining
+INFO:__main__:= TURN 1 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 158.231020 ms used, 341.768980 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 158.478022 ms used, 341.521978 ms remaining
+INFO:proj.ants:== TURN 2 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.574932 ms used, 484.425068 ms remaining
+INFO:__main__:= TURN 2 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 16.474009 ms used, 483.525991 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 16.718864 ms used, 483.281136 ms remaining
+INFO:proj.ants:== TURN 3 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.430834 ms used, 486.569166 ms remaining
+INFO:__main__:= TURN 3 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 14.582872 ms used, 485.417128 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 14.832973 ms used, 485.167027 ms remaining
+INFO:proj.ants:== TURN 4 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.842915 ms used, 484.157085 ms remaining
+INFO:__main__:= TURN 4 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 17.210960 ms used, 482.789040 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 17.466068 ms used, 482.533932 ms remaining
+INFO:proj.ants:== TURN 5 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.940977 ms used, 485.059023 ms remaining
+INFO:__main__:= TURN 5 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 16.719818 ms used, 483.280182 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 16.973019 ms used, 483.026981 ms remaining
+INFO:proj.ants:== TURN 6 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.961906 ms used, 481.038094 ms remaining
+INFO:__main__:= TURN 6 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 20.677805 ms used, 479.322195 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 20.931005 ms used, 479.068995 ms remaining
+INFO:proj.ants:== TURN 7 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.689819 ms used, 477.310181 ms remaining
+INFO:__main__:= TURN 7 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 24.343014 ms used, 475.656986 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 24.595022 ms used, 475.404978 ms remaining
+INFO:proj.ants:== TURN 8 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.542072 ms used, 478.457928 ms remaining
+INFO:__main__:= TURN 8 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 23.408175 ms used, 476.591825 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 23.667097 ms used, 476.332903 ms remaining
+INFO:proj.ants:== TURN 9 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.465975 ms used, 484.534025 ms remaining
+INFO:__main__:= TURN 9 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 17.328978 ms used, 482.671022 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 17.595053 ms used, 482.404947 ms remaining
+INFO:proj.ants:== TURN 10 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.926020 ms used, 476.073980 ms remaining
+INFO:__main__:= TURN 10 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 25.973082 ms used, 474.026918 ms remaining
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 26.237011 ms used, 473.762989 ms remaining
+INFO:proj.ants:== TURN 11 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 16.057968 ms used, 483.942032 ms remaining
+INFO:__main__:= TURN 11 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 18.198967 ms used, 481.801033 ms remaining
+DEBUG:__main__:2.44784355164 ms used in ant exploration for 1 ants
+DEBUG:__main__:2.44784355164 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 21.142006 ms used, 478.857994 ms remaining
+INFO:proj.ants:== TURN 12 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 10.599136 ms used, 489.400864 ms remaining
+INFO:__main__:= TURN 12 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 12.886047 ms used, 487.113953 ms remaining
+DEBUG:__main__:2.43782997131 ms used in ant exploration for 1 ants
+DEBUG:__main__:2.43782997131 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 15.815020 ms used, 484.184980 ms remaining
+INFO:proj.ants:== TURN 13 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.144110 ms used, 484.855890 ms remaining
+INFO:__main__:= TURN 13 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 17.178059 ms used, 482.821941 ms remaining
+DEBUG:__main__:4.94289398193 ms used in ant exploration for 2 ants
+DEBUG:__main__:2.47144699097 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 22.601128 ms used, 477.398872 ms remaining
+INFO:proj.ants:== TURN 14 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 20.705938 ms used, 479.294062 ms remaining
+INFO:__main__:= TURN 14 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 22.850990 ms used, 477.149010 ms remaining
+DEBUG:__main__:7.64203071594 ms used in ant exploration for 3 ants
+DEBUG:__main__:2.54734357198 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 30.987024 ms used, 469.012976 ms remaining
+INFO:proj.ants:== TURN 15 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 25.572062 ms used, 474.427938 ms remaining
+INFO:__main__:= TURN 15 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 27.918100 ms used, 472.081900 ms remaining
+DEBUG:__main__:10.8139514923 ms used in ant exploration for 4 ants
+DEBUG:__main__:2.70348787308 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 39.219141 ms used, 460.780859 ms remaining
+INFO:proj.ants:== TURN 16 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.272856 ms used, 484.727144 ms remaining
+INFO:__main__:= TURN 16 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 18.007994 ms used, 481.992006 ms remaining
+DEBUG:__main__:13.7178897858 ms used in ant exploration for 5 ants
+DEBUG:__main__:2.74357795715 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 32.217026 ms used, 467.782974 ms remaining
+INFO:proj.ants:== TURN 17 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.706964 ms used, 480.293036 ms remaining
+INFO:__main__:= TURN 17 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 22.825003 ms used, 477.174997 ms remaining
+DEBUG:__main__:14.2579078674 ms used in ant exploration for 5 ants
+DEBUG:__main__:2.85158157349 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 37.594080 ms used, 462.405920 ms remaining
+INFO:proj.ants:== TURN 18 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 27.199030 ms used, 472.800970 ms remaining
+INFO:__main__:= TURN 18 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 30.432940 ms used, 469.567060 ms remaining
+DEBUG:__main__:15.0210857391 ms used in ant exploration for 5 ants
+DEBUG:__main__:3.00421714783 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 45.969963 ms used, 454.030037 ms remaining
+INFO:proj.ants:== TURN 19 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.275976 ms used, 481.724024 ms remaining
+INFO:__main__:= TURN 19 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 21.549940 ms used, 478.450060 ms remaining
+DEBUG:__main__:15.2220726013 ms used in ant exploration for 5 ants
+DEBUG:__main__:3.04441452026 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 37.268877 ms used, 462.731123 ms remaining
+INFO:proj.ants:== TURN 20 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 25.281906 ms used, 474.718094 ms remaining
+INFO:__main__:= TURN 20 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 28.830051 ms used, 471.169949 ms remaining
+DEBUG:__main__:16.0441398621 ms used in ant exploration for 5 ants
+DEBUG:__main__:3.20882797241 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 45.382023 ms used, 454.617977 ms remaining
+INFO:proj.ants:== TURN 21 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.436069 ms used, 476.563931 ms remaining
+INFO:__main__:= TURN 21 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 27.560949 ms used, 472.439051 ms remaining
+DEBUG:__main__:16.793012619 ms used in ant exploration for 5 ants
+DEBUG:__main__:3.3586025238 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 44.867992 ms used, 455.132008 ms remaining
+INFO:proj.ants:== TURN 22 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.399000 ms used, 481.601000 ms remaining
+INFO:__main__:= TURN 22 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 22.504091 ms used, 477.495909 ms remaining
+DEBUG:__main__:21.0020542145 ms used in ant exploration for 6 ants
+DEBUG:__main__:3.50034236908 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 44.037104 ms used, 455.962896 ms remaining
+INFO:proj.ants:== TURN 23 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 24.662018 ms used, 475.337982 ms remaining
+INFO:__main__:= TURN 23 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 28.700113 ms used, 471.299887 ms remaining
+DEBUG:__main__:25.8030891418 ms used in ant exploration for 7 ants
+DEBUG:__main__:3.68615559169 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 55.023909 ms used, 444.976091 ms remaining
+INFO:proj.ants:== TURN 24 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.001028 ms used, 477.998972 ms remaining
+INFO:__main__:= TURN 24 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 26.044130 ms used, 473.955870 ms remaining
+DEBUG:__main__:34.6400737762 ms used in ant exploration for 9 ants
+DEBUG:__main__:3.84889708625 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 61.207056 ms used, 438.792944 ms remaining
+INFO:proj.ants:== TURN 25 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 27.088881 ms used, 472.911119 ms remaining
+INFO:__main__:= TURN 25 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 31.244993 ms used, 468.755007 ms remaining
+DEBUG:__main__:41.0621166229 ms used in ant exploration for 10 ants
+DEBUG:__main__:4.10621166229 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 72.854042 ms used, 427.145958 ms remaining
+INFO:proj.ants:== TURN 26 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.077084 ms used, 477.922916 ms remaining
+INFO:__main__:= TURN 26 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 26.555061 ms used, 473.444939 ms remaining
+DEBUG:__main__:38.5899543762 ms used in ant exploration for 9 ants
+DEBUG:__main__:4.28777270847 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 65.689087 ms used, 434.310913 ms remaining
+INFO:proj.ants:== TURN 27 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.141933 ms used, 477.858067 ms remaining
+INFO:__main__:= TURN 27 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 26.995897 ms used, 473.004103 ms remaining
+DEBUG:__main__:39.5939350128 ms used in ant exploration for 9 ants
+DEBUG:__main__:4.39932611254 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 67.189932 ms used, 432.810068 ms remaining
+INFO:proj.ants:== TURN 28 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.622896 ms used, 478.377104 ms remaining
+INFO:__main__:= TURN 28 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 32.789946 ms used, 467.210054 ms remaining
+DEBUG:__main__:40.4138565063 ms used in ant exploration for 9 ants
+DEBUG:__main__:4.49042850071 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 73.755980 ms used, 426.244020 ms remaining
+INFO:proj.ants:== TURN 29 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 29.605150 ms used, 470.394850 ms remaining
+INFO:__main__:= TURN 29 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 40.508986 ms used, 459.491014 ms remaining
+DEBUG:__main__:47.1432209015 ms used in ant exploration for 10 ants
+DEBUG:__main__:4.71432209015 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 88.196039 ms used, 411.803961 ms remaining
+INFO:proj.ants:== TURN 30 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 27.158022 ms used, 472.841978 ms remaining
+INFO:__main__:= TURN 30 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 37.983179 ms used, 462.016821 ms remaining
+DEBUG:__main__:52.0470142365 ms used in ant exploration for 10 ants
+DEBUG:__main__:5.20470142365 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 90.605021 ms used, 409.394979 ms remaining
+INFO:proj.ants:== TURN 31 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 25.402069 ms used, 474.597931 ms remaining
+INFO:__main__:= TURN 31 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 37.898064 ms used, 462.101936 ms remaining
+DEBUG:__main__:50.0299930573 ms used in ant exploration for 10 ants
+DEBUG:__main__:5.00299930573 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 88.518858 ms used, 411.481142 ms remaining
+INFO:proj.ants:== TURN 32 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 20.845890 ms used, 479.154110 ms remaining
+INFO:__main__:= TURN 32 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 33.166885 ms used, 466.833115 ms remaining
+DEBUG:__main__:45.4161167145 ms used in ant exploration for 9 ants
+DEBUG:__main__:5.0462351905 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 79.129934 ms used, 420.870066 ms remaining
+INFO:proj.ants:== TURN 33 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.397093 ms used, 481.602907 ms remaining
+INFO:__main__:= TURN 33 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 33.447981 ms used, 466.552019 ms remaining
+DEBUG:__main__:45.6359386444 ms used in ant exploration for 9 ants
+DEBUG:__main__:5.07065984938 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 79.636097 ms used, 420.363903 ms remaining
+INFO:proj.ants:== TURN 34 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.461113 ms used, 486.538887 ms remaining
+INFO:__main__:= TURN 34 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 27.374029 ms used, 472.625971 ms remaining
+DEBUG:__main__:41.3241386414 ms used in ant exploration for 8 ants
+DEBUG:__main__:5.16551733017 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 69.249153 ms used, 430.750847 ms remaining
+INFO:proj.ants:== TURN 35 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.364834 ms used, 480.635166 ms remaining
+INFO:__main__:= TURN 35 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 33.154964 ms used, 466.845036 ms remaining
+DEBUG:__main__:41.9998168945 ms used in ant exploration for 8 ants
+DEBUG:__main__:5.24997711182 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 75.699806 ms used, 424.300194 ms remaining
+INFO:proj.ants:== TURN 36 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.399073 ms used, 482.600927 ms remaining
+INFO:__main__:= TURN 36 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 31.202078 ms used, 468.797922 ms remaining
+DEBUG:__main__:42.7701473236 ms used in ant exploration for 8 ants
+DEBUG:__main__:5.34626841545 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 74.521065 ms used, 425.478935 ms remaining
+INFO:proj.ants:== TURN 37 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.027140 ms used, 482.972860 ms remaining
+INFO:__main__:= TURN 37 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 30.675173 ms used, 469.324827 ms remaining
+DEBUG:__main__:38.0828380585 ms used in ant exploration for 7 ants
+DEBUG:__main__:5.44040543692 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 69.296122 ms used, 430.703878 ms remaining
+INFO:proj.ants:== TURN 38 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.489101 ms used, 484.510899 ms remaining
+INFO:__main__:= TURN 38 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 25.650024 ms used, 474.349976 ms remaining
+DEBUG:__main__:33.3831310272 ms used in ant exploration for 6 ants
+DEBUG:__main__:5.5638551712 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 59.596062 ms used, 440.403938 ms remaining
+INFO:proj.ants:== TURN 39 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.959927 ms used, 480.040073 ms remaining
+INFO:__main__:= TURN 39 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 30.266047 ms used, 469.733953 ms remaining
+DEBUG:__main__:34.1320037842 ms used in ant exploration for 6 ants
+DEBUG:__main__:5.68866729736 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 64.976931 ms used, 435.023069 ms remaining
+INFO:proj.ants:== TURN 40 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 24.329185 ms used, 475.670815 ms remaining
+INFO:__main__:= TURN 40 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 36.964178 ms used, 463.035822 ms remaining
+DEBUG:__main__:41.4490699768 ms used in ant exploration for 7 ants
+DEBUG:__main__:5.92129571097 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 78.969955 ms used, 421.030045 ms remaining
+INFO:proj.ants:== TURN 41 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.970987 ms used, 478.029013 ms remaining
+INFO:__main__:= TURN 41 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 34.775972 ms used, 465.224028 ms remaining
+DEBUG:__main__:48.4440326691 ms used in ant exploration for 8 ants
+DEBUG:__main__:6.05550408363 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 83.783865 ms used, 416.216135 ms remaining
+INFO:proj.ants:== TURN 42 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 25.424957 ms used, 474.575043 ms remaining
+INFO:__main__:= TURN 42 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 36.878109 ms used, 463.121891 ms remaining
+DEBUG:__main__:56.5819740295 ms used in ant exploration for 9 ants
+DEBUG:__main__:6.28688600328 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 94.031096 ms used, 405.968904 ms remaining
+INFO:proj.ants:== TURN 43 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.162914 ms used, 477.837086 ms remaining
+INFO:__main__:= TURN 43 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 35.056114 ms used, 464.943886 ms remaining
+DEBUG:__main__:64.7869110107 ms used in ant exploration for 10 ants
+DEBUG:__main__:6.47869110107 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 100.409985 ms used, 399.590015 ms remaining
+INFO:proj.ants:== TURN 44 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.247107 ms used, 484.752893 ms remaining
+INFO:__main__:= TURN 44 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 29.170990 ms used, 470.829010 ms remaining
+DEBUG:__main__:66.605091095 ms used in ant exploration for 10 ants
+DEBUG:__main__:6.6605091095 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 96.341133 ms used, 403.658867 ms remaining
+INFO:proj.ants:== TURN 45 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.278008 ms used, 486.721992 ms remaining
+INFO:__main__:= TURN 45 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 27.344227 ms used, 472.655773 ms remaining
+DEBUG:__main__:53.7579059601 ms used in ant exploration for 8 ants
+DEBUG:__main__:6.71973824501 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 81.661224 ms used, 418.338776 ms remaining
+INFO:proj.ants:== TURN 46 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.414093 ms used, 482.585907 ms remaining
+INFO:__main__:= TURN 46 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 31.527996 ms used, 468.472004 ms remaining
+DEBUG:__main__:54.7151565552 ms used in ant exploration for 8 ants
+DEBUG:__main__:6.8393945694 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 86.827040 ms used, 413.172960 ms remaining
+INFO:proj.ants:== TURN 47 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.311998 ms used, 478.688002 ms remaining
+INFO:__main__:= TURN 47 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 35.974979 ms used, 464.025021 ms remaining
+DEBUG:__main__:49.6020317078 ms used in ant exploration for 7 ants
+DEBUG:__main__:7.08600452968 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 86.143970 ms used, 413.856030 ms remaining
+INFO:proj.ants:== TURN 48 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 29.764891 ms used, 470.235109 ms remaining
+INFO:__main__:= TURN 48 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 44.233084 ms used, 455.766916 ms remaining
+DEBUG:__main__:58.4030151367 ms used in ant exploration for 8 ants
+DEBUG:__main__:7.30037689209 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 103.255033 ms used, 396.744967 ms remaining
+INFO:proj.ants:== TURN 49 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.481203 ms used, 477.518797 ms remaining
+INFO:__main__:= TURN 49 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 37.688971 ms used, 462.311029 ms remaining
+DEBUG:__main__:51.698923111 ms used in ant exploration for 7 ants
+DEBUG:__main__:7.38556044442 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 89.972973 ms used, 410.027027 ms remaining
+INFO:proj.ants:== TURN 50 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.419142 ms used, 476.580858 ms remaining
+INFO:__main__:= TURN 50 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 38.758993 ms used, 461.241007 ms remaining
+DEBUG:__main__:76.1110782623 ms used in ant exploration for 10 ants
+DEBUG:__main__:7.61110782623 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 115.437031 ms used, 384.562969 ms remaining
+INFO:proj.ants:== TURN 51 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.520044 ms used, 480.479956 ms remaining
+INFO:__main__:= TURN 51 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 34.950018 ms used, 465.049982 ms remaining
+DEBUG:__main__:77.7540206909 ms used in ant exploration for 10 ants
+DEBUG:__main__:7.77540206909 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 113.280058 ms used, 386.719942 ms remaining
+INFO:proj.ants:== TURN 52 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.625208 ms used, 477.374792 ms remaining
+INFO:__main__:= TURN 52 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 38.357019 ms used, 461.642981 ms remaining
+DEBUG:__main__:71.8150138855 ms used in ant exploration for 9 ants
+DEBUG:__main__:7.97944598728 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 110.737085 ms used, 389.262915 ms remaining
+INFO:proj.ants:== TURN 53 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 24.657011 ms used, 475.342989 ms remaining
+INFO:__main__:= TURN 53 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 40.650129 ms used, 459.349871 ms remaining
+DEBUG:__main__:56.4830303192 ms used in ant exploration for 7 ants
+DEBUG:__main__:8.06900433132 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 97.692966 ms used, 402.307034 ms remaining
+INFO:proj.ants:== TURN 54 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.105030 ms used, 481.894970 ms remaining
+INFO:__main__:= TURN 54 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 34.305096 ms used, 465.694904 ms remaining
+DEBUG:__main__:49.4840145111 ms used in ant exploration for 6 ants
+DEBUG:__main__:8.24733575185 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 84.360123 ms used, 415.639877 ms remaining
+INFO:proj.ants:== TURN 55 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.140078 ms used, 481.859922 ms remaining
+INFO:__main__:= TURN 55 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 34.342051 ms used, 465.657949 ms remaining
+DEBUG:__main__:66.5409564972 ms used in ant exploration for 8 ants
+DEBUG:__main__:8.31761956215 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 101.447105 ms used, 398.552895 ms remaining
+INFO:proj.ants:== TURN 56 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.526907 ms used, 476.473093 ms remaining
+INFO:__main__:= TURN 56 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 40.247917 ms used, 459.752083 ms remaining
+DEBUG:__main__:93.2929515839 ms used in ant exploration for 11 ants
+DEBUG:__main__:8.48117741671 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 134.116888 ms used, 365.883112 ms remaining
+INFO:proj.ants:== TURN 57 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 29.585123 ms used, 470.414877 ms remaining
+INFO:__main__:= TURN 57 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 47.577143 ms used, 452.422857 ms remaining
+DEBUG:__main__:91.7830467224 ms used in ant exploration for 11 ants
+DEBUG:__main__:8.3439133384 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 139.961958 ms used, 360.038042 ms remaining
+INFO:proj.ants:== TURN 58 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 37.071943 ms used, 462.928057 ms remaining
+INFO:__main__:= TURN 58 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 56.025982 ms used, 443.974018 ms remaining
+DEBUG:__main__:84.1870307922 ms used in ant exploration for 10 ants
+DEBUG:__main__:8.41870307922 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 140.787840 ms used, 359.212160 ms remaining
+INFO:proj.ants:== TURN 59 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 33.045053 ms used, 466.954947 ms remaining
+INFO:__main__:= TURN 59 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 52.890062 ms used, 447.109938 ms remaining
+DEBUG:__main__:85.727930069 ms used in ant exploration for 10 ants
+DEBUG:__main__:8.5727930069 ms each
+INFO:__main__:Most used: 158.366918564 ms
+DEBUG:proj.ants:FINAL: 139.195919 ms used, 360.804081 ms remaining
+INFO:proj.ants:== TURN 60 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 37.168980 ms used, 462.831020 ms remaining
+INFO:__main__:= TURN 60 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 60.065031 ms used, 439.934969 ms remaining
+DEBUG:__main__:104.666233063 ms used in ant exploration for 12 ants
+DEBUG:__main__:8.72218608856 ms each
+INFO:__main__:Most used: 165.202140808 ms
+DEBUG:proj.ants:FINAL: 165.312052 ms used, 334.687948 ms remaining
+INFO:proj.ants:== TURN 61 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 35.199881 ms used, 464.800119 ms remaining
+INFO:__main__:= TURN 61 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 62.412977 ms used, 437.587023 ms remaining
+DEBUG:__main__:124.346017838 ms used in ant exploration for 14 ants
+DEBUG:__main__:8.88185841697 ms each
+INFO:__main__:Most used: 187.248945236 ms
+DEBUG:proj.ants:FINAL: 187.361002 ms used, 312.638998 ms remaining
+INFO:proj.ants:== TURN 62 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 26.347160 ms used, 473.652840 ms remaining
+INFO:__main__:= TURN 62 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 58.086157 ms used, 441.913843 ms remaining
+DEBUG:__main__:133.51392746 ms used in ant exploration for 15 ants
+DEBUG:__main__:8.90092849731 ms each
+INFO:__main__:Most used: 192.06905365 ms
+DEBUG:proj.ants:FINAL: 192.180157 ms used, 307.819843 ms remaining
+INFO:proj.ants:== TURN 63 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 25.048018 ms used, 474.951982 ms remaining
+INFO:__main__:= TURN 63 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 56.501150 ms used, 443.498850 ms remaining
+DEBUG:__main__:142.96579361 ms used in ant exploration for 16 ants
+DEBUG:__main__:8.9353621006 ms each
+INFO:__main__:Most used: 199.959039688 ms
+DEBUG:proj.ants:FINAL: 200.072050 ms used, 299.927950 ms remaining
+INFO:proj.ants:== TURN 64 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 24.104118 ms used, 475.895882 ms remaining
+INFO:__main__:= TURN 64 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 55.103064 ms used, 444.896936 ms remaining
+DEBUG:__main__:144.326210022 ms used in ant exploration for 16 ants
+DEBUG:__main__:9.02038812637 ms each
+INFO:__main__:Most used: 199.959039688 ms
+DEBUG:proj.ants:FINAL: 200.036049 ms used, 299.963951 ms remaining
+INFO:proj.ants:== TURN 65 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.108057 ms used, 480.891943 ms remaining
+INFO:__main__:= TURN 65 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 43.327093 ms used, 456.672907 ms remaining
+DEBUG:__main__:181.624889374 ms used in ant exploration for 18 ants
+DEBUG:__main__:10.0902716319 ms each
+INFO:__main__:Most used: 225.434064865 ms
+DEBUG:proj.ants:FINAL: 225.546122 ms used, 274.453878 ms remaining
+INFO:proj.ants:== TURN 66 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.761894 ms used, 478.238106 ms remaining
+INFO:__main__:= TURN 66 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 54.100990 ms used, 445.899010 ms remaining
+DEBUG:__main__:202.510118484 ms used in ant exploration for 20 ants
+DEBUG:__main__:10.1255059242 ms each
+INFO:__main__:Most used: 257.093906403 ms
+DEBUG:proj.ants:FINAL: 257.205009 ms used, 242.794991 ms remaining
+INFO:proj.ants:== TURN 67 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.866995 ms used, 484.133005 ms remaining
+INFO:__main__:= TURN 67 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 51.430941 ms used, 448.569059 ms remaining
+DEBUG:__main__:196.655988693 ms used in ant exploration for 21 ants
+DEBUG:__main__:9.36457089015 ms each
+INFO:__main__:Most used: 257.093906403 ms
+DEBUG:proj.ants:FINAL: 248.706102 ms used, 251.293898 ms remaining
+INFO:proj.ants:== TURN 68 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.357826 ms used, 482.642174 ms remaining
+INFO:__main__:= TURN 68 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 41.982889 ms used, 458.017111 ms remaining
+DEBUG:__main__:244.420051575 ms used in ant exploration for 26 ants
+DEBUG:__main__:9.40077121441 ms each
+INFO:__main__:Most used: 286.903858185 ms
+DEBUG:proj.ants:FINAL: 287.014961 ms used, 212.985039 ms remaining
+INFO:proj.ants:== TURN 69 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.827034 ms used, 482.172966 ms remaining
+INFO:__main__:= TURN 69 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 49.730062 ms used, 450.269938 ms remaining
+DEBUG:__main__:271.837949753 ms used in ant exploration for 27 ants
+DEBUG:__main__:10.0680722131 ms each
+INFO:__main__:Most used: 322.095870972 ms
+DEBUG:proj.ants:FINAL: 322.208881 ms used, 177.791119 ms remaining
+INFO:proj.ants:== TURN 70 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 28.152943 ms used, 471.847057 ms remaining
+INFO:__main__:= TURN 70 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 51.819086 ms used, 448.180914 ms remaining
+DEBUG:__main__:284.040927887 ms used in ant exploration for 28 ants
+DEBUG:__main__:10.1443188531 ms each
+INFO:__main__:Most used: 336.379051208 ms
+DEBUG:proj.ants:FINAL: 336.491108 ms used, 163.508892 ms remaining
+INFO:proj.ants:== TURN 71 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 29.381990 ms used, 470.618010 ms remaining
+INFO:__main__:= TURN 71 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 61.890841 ms used, 438.109159 ms remaining
+DEBUG:__main__:333.61697197 ms used in ant exploration for 31 ants
+DEBUG:__main__:10.7618378055 ms each
+INFO:__main__:Most used: 396.034002304 ms
+DEBUG:proj.ants:FINAL: 396.147013 ms used, 103.852987 ms remaining
+INFO:proj.ants:== TURN 72 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 26.497126 ms used, 473.502874 ms remaining
+INFO:__main__:= TURN 72 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 53.256035 ms used, 446.743965 ms remaining
+DEBUG:__main__:326.662778854 ms used in ant exploration for 30 ants
+DEBUG:__main__:10.8887592951 ms each
+INFO:__main__:Most used: 396.034002304 ms
+DEBUG:proj.ants:FINAL: 380.542040 ms used, 119.457960 ms remaining
+INFO:proj.ants:== TURN 73 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.570019 ms used, 482.429981 ms remaining
+INFO:__main__:= TURN 73 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 51.341057 ms used, 448.658943 ms remaining
+DEBUG:__main__:333.024978638 ms used in ant exploration for 30 ants
+DEBUG:__main__:11.1008326213 ms each
+INFO:__main__:Most used: 396.034002304 ms
+DEBUG:proj.ants:FINAL: 384.997129 ms used, 115.002871 ms remaining
+INFO:proj.ants:== TURN 74 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.890858 ms used, 481.109142 ms remaining
+INFO:__main__:= TURN 74 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 45.045853 ms used, 454.954147 ms remaining
+DEBUG:__main__:329.350948334 ms used in ant exploration for 30 ants
+DEBUG:__main__:10.9783649445 ms each
+INFO:__main__:Most used: 396.034002304 ms
+DEBUG:proj.ants:FINAL: 375.016928 ms used, 124.983072 ms remaining
+INFO:proj.ants:== TURN 75 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.077063 ms used, 480.922937 ms remaining
+INFO:__main__:= TURN 75 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 51.064014 ms used, 448.935986 ms remaining
+DEBUG:__main__:330.805063248 ms used in ant exploration for 30 ants
+DEBUG:__main__:11.0268354416 ms each
+INFO:__main__:Most used: 396.034002304 ms
+DEBUG:proj.ants:FINAL: 382.483959 ms used, 117.516041 ms remaining
+INFO:proj.ants:== TURN 76 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.662909 ms used, 484.337091 ms remaining
+INFO:__main__:= TURN 76 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 41.399956 ms used, 458.600044 ms remaining
+DEBUG:__main__:333.17899704 ms used in ant exploration for 30 ants
+DEBUG:__main__:11.105966568 ms each
+INFO:__main__:Most used: 396.034002304 ms
+DEBUG:proj.ants:FINAL: 375.211000 ms used, 124.789000 ms remaining
+INFO:proj.ants:== TURN 77 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.144960 ms used, 476.855040 ms remaining
+INFO:__main__:= TURN 77 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 55.274963 ms used, 444.725037 ms remaining
+DEBUG:__main__:318.356990814 ms used in ant exploration for 30 ants
+DEBUG:__main__:10.6118996938 ms each
+INFO:__main__:Most used: 396.034002304 ms
+DEBUG:proj.ants:FINAL: 374.248981 ms used, 125.751019 ms remaining
+INFO:proj.ants:== TURN 78 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.584915 ms used, 477.415085 ms remaining
+INFO:__main__:= TURN 78 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 47.626972 ms used, 452.373028 ms remaining
+DEBUG:__main__:330.881118774 ms used in ant exploration for 31 ants
+DEBUG:__main__:10.6735844766 ms each
+INFO:__main__:Most used: 396.034002304 ms
+DEBUG:proj.ants:FINAL: 379.153967 ms used, 120.846033 ms remaining
+INFO:proj.ants:== TURN 79 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 25.610924 ms used, 474.389076 ms remaining
+INFO:__main__:= TURN 79 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 61.357975 ms used, 438.642025 ms remaining
+DEBUG:__main__:346.556901932 ms used in ant exploration for 32 ants
+DEBUG:__main__:10.8299031854 ms each
+INFO:__main__:Most used: 408.438920975 ms
+DEBUG:proj.ants:FINAL: 408.551931 ms used, 91.448069 ms remaining
+INFO:proj.ants:== TURN 80 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.610903 ms used, 477.389097 ms remaining
+INFO:__main__:= TURN 80 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 52.187920 ms used, 447.812080 ms remaining
+DEBUG:__main__:330.834150314 ms used in ant exploration for 32 ants
+DEBUG:__main__:10.3385671973 ms each
+INFO:__main__:Most used: 408.438920975 ms
+DEBUG:proj.ants:FINAL: 383.632898 ms used, 116.367102 ms remaining
+INFO:proj.ants:== TURN 81 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 26.621103 ms used, 473.378897 ms remaining
+INFO:__main__:= TURN 81 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 63.518047 ms used, 436.481953 ms remaining
+DEBUG:__main__:358.949184418 ms used in ant exploration for 31 ants
+DEBUG:__main__:11.579005949 ms each
+INFO:__main__:Most used: 422.991991043 ms
+DEBUG:proj.ants:FINAL: 423.104048 ms used, 76.895952 ms remaining
+INFO:proj.ants:== TURN 82 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 28.520107 ms used, 471.479893 ms remaining
+INFO:__main__:= TURN 82 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 58.433056 ms used, 441.566944 ms remaining
+DEBUG:__main__:336.342096329 ms used in ant exploration for 30 ants
+DEBUG:__main__:11.211403211 ms each
+INFO:__main__:Most used: 422.991991043 ms
+DEBUG:proj.ants:FINAL: 395.380974 ms used, 104.619026 ms remaining
+INFO:proj.ants:== TURN 83 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 40.023088 ms used, 459.976912 ms remaining
+INFO:__main__:= TURN 83 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 78.140020 ms used, 421.859980 ms remaining
+DEBUG:__main__:365.092992783 ms used in ant exploration for 30 ants
+DEBUG:__main__:12.1697664261 ms each
+INFO:__main__:Most used: 443.758010864 ms
+DEBUG:proj.ants:FINAL: 443.871021 ms used, 56.128979 ms remaining
+INFO:proj.ants:== TURN 84 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 34.783840 ms used, 465.216160 ms remaining
+INFO:__main__:= TURN 84 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 66.227913 ms used, 433.772087 ms remaining
+DEBUG:__main__:356.242179871 ms used in ant exploration for 30 ants
+DEBUG:__main__:11.874739329 ms each
+INFO:__main__:Most used: 443.758010864 ms
+DEBUG:proj.ants:FINAL: 423.015833 ms used, 76.984167 ms remaining
+INFO:proj.ants:== TURN 85 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 26.602983 ms used, 473.397017 ms remaining
+INFO:__main__:= TURN 85 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 54.984808 ms used, 445.015192 ms remaining
+DEBUG:__main__:359.208106995 ms used in ant exploration for 29 ants
+DEBUG:__main__:12.3864864481 ms each
+INFO:__main__:Most used: 443.758010864 ms
+DEBUG:proj.ants:FINAL: 414.780855 ms used, 85.219145 ms remaining
+INFO:proj.ants:== TURN 86 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 31.850100 ms used, 468.149900 ms remaining
+INFO:__main__:= TURN 86 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 72.226048 ms used, 427.773952 ms remaining
+DEBUG:__main__:404.983997345 ms used in ant exploration for 32 ants
+DEBUG:__main__:12.655749917 ms each
+INFO:__main__:Most used: 477.768182755 ms
+DEBUG:proj.ants:FINAL: 477.880955 ms used, 22.119045 ms remaining
+INFO:proj.ants:== TURN 87 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.482157 ms used, 477.517843 ms remaining
+INFO:__main__:= TURN 87 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 61.445951 ms used, 438.554049 ms remaining
+DEBUG:__main__:374.308109283 ms used in ant exploration for 31 ants
+DEBUG:__main__:12.0744551382 ms each
+INFO:__main__:Most used: 477.768182755 ms
+DEBUG:proj.ants:FINAL: 436.377048 ms used, 63.622952 ms remaining
+INFO:proj.ants:== TURN 88 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 26.216984 ms used, 473.783016 ms remaining
+INFO:__main__:= TURN 88 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 65.997124 ms used, 434.002876 ms remaining
+DEBUG:__main__:393.851041794 ms used in ant exploration for 32 ants
+DEBUG:__main__:12.3078450561 ms each
+INFO:__main__:Most used: 477.768182755 ms
+DEBUG:proj.ants:FINAL: 460.477114 ms used, 39.522886 ms remaining
+INFO:proj.ants:== TURN 89 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.962975 ms used, 476.037025 ms remaining
+INFO:__main__:= TURN 89 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 69.200993 ms used, 430.799007 ms remaining
+DEBUG:__main__:386.656045914 ms used in ant exploration for 33 ants
+DEBUG:__main__:11.7168498762 ms each
+INFO:__main__:Most used: 477.768182755 ms
+DEBUG:proj.ants:FINAL: 456.472874 ms used, 43.527126 ms remaining
+INFO:proj.ants:== TURN 90 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 39.376020 ms used, 460.623980 ms remaining
+INFO:__main__:= TURN 90 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 79.706907 ms used, 420.293093 ms remaining
+DEBUG:__main__:369.148015976 ms used in ant exploration for 34 ants
+DEBUG:__main__:10.8572945875 ms each
+INFO:__main__:Most used: 477.768182755 ms
+DEBUG:proj.ants:FINAL: 449.434042 ms used, 50.565958 ms remaining
+INFO:proj.ants:== TURN 91 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 25.424004 ms used, 474.575996 ms remaining
+INFO:__main__:= TURN 91 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 52.702904 ms used, 447.297096 ms remaining
+DEBUG:__main__:27 ms left. Quitting exploration...
+DEBUG:__main__:420.767068863 ms used in ant exploration for 31 ants
+DEBUG:__main__:13.5731312536 ms each
+INFO:__main__:Most used: 477.768182755 ms
+DEBUG:proj.ants:FINAL: 473.985910 ms used, 26.014090 ms remaining
+INFO:proj.ants:== TURN 92 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 41.537046 ms used, 458.462954 ms remaining
+INFO:__main__:= TURN 92 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 81.630945 ms used, 418.369055 ms remaining
+DEBUG:__main__:44 ms left. Quitting exploration...
+DEBUG:__main__:375.244140625 ms used in ant exploration for 29 ants
+DEBUG:__main__:12.939453125 ms each
+INFO:__main__:Most used: 477.768182755 ms
+DEBUG:proj.ants:FINAL: 457.430124 ms used, 42.569876 ms remaining
+INFO:proj.ants:== TURN 93 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 85.808992 ms used, 414.191008 ms remaining
+INFO:__main__:= TURN 93 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 135.810137 ms used, 364.189863 ms remaining
+DEBUG:__main__:8 ms left. Quitting exploration...
+DEBUG:__main__:356.443166733 ms used in ant exploration for 26 ants
+DEBUG:__main__:13.7093525666 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 492.807150 ms used, 7.192850 ms remaining
+INFO:proj.ants:== TURN 94 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.488998 ms used, 476.511002 ms remaining
+INFO:__main__:= TURN 94 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 77.977896 ms used, 422.022104 ms remaining
+DEBUG:__main__:34 ms left. Quitting exploration...
+DEBUG:__main__:388.674020767 ms used in ant exploration for 29 ants
+DEBUG:__main__:13.4025524402 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 467.204094 ms used, 32.795906 ms remaining
+INFO:proj.ants:== TURN 95 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 27.924061 ms used, 472.075939 ms remaining
+INFO:__main__:= TURN 95 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 86.522102 ms used, 413.477898 ms remaining
+DEBUG:__main__:30 ms left. Quitting exploration...
+DEBUG:__main__:384.341001511 ms used in ant exploration for 30 ants
+DEBUG:__main__:12.811366717 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 471.418142 ms used, 28.581858 ms remaining
+INFO:proj.ants:== TURN 96 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 29.560804 ms used, 470.439196 ms remaining
+INFO:__main__:= TURN 96 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 66.766977 ms used, 433.233023 ms remaining
+DEBUG:__main__:27 ms left. Quitting exploration...
+DEBUG:__main__:406.633138657 ms used in ant exploration for 30 ants
+DEBUG:__main__:13.5544379552 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 473.950863 ms used, 26.049137 ms remaining
+INFO:proj.ants:== TURN 97 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 37.625074 ms used, 462.374926 ms remaining
+INFO:__main__:= TURN 97 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 94.519138 ms used, 405.480862 ms remaining
+DEBUG:__main__:30 ms left. Quitting exploration...
+DEBUG:__main__:376.255989075 ms used in ant exploration for 29 ants
+DEBUG:__main__:12.9743444509 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 471.325159 ms used, 28.674841 ms remaining
+INFO:proj.ants:== TURN 98 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 32.320976 ms used, 467.679024 ms remaining
+INFO:__main__:= TURN 98 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 71.815014 ms used, 428.184986 ms remaining
+DEBUG:__main__:32 ms left. Quitting exploration...
+DEBUG:__main__:396.384000778 ms used in ant exploration for 30 ants
+DEBUG:__main__:13.2128000259 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 468.754053 ms used, 31.245947 ms remaining
+INFO:proj.ants:== TURN 99 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 37.255049 ms used, 462.744951 ms remaining
+INFO:__main__:= TURN 99 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 95.865011 ms used, 404.134989 ms remaining
+DEBUG:__main__:34 ms left. Quitting exploration...
+DEBUG:__main__:370.20111084 ms used in ant exploration for 28 ants
+DEBUG:__main__:13.2214682443 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 466.623068 ms used, 33.376932 ms remaining
+INFO:proj.ants:== TURN 100 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 47.818184 ms used, 452.181816 ms remaining
+INFO:__main__:= TURN 100 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 106.924057 ms used, 393.075943 ms remaining
+DEBUG:__main__:29 ms left. Quitting exploration...
+DEBUG:__main__:364.704847336 ms used in ant exploration for 27 ants
+DEBUG:__main__:13.5075869384 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 472.181082 ms used, 27.818918 ms remaining
+INFO:proj.ants:== TURN 101 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 50.681114 ms used, 449.318886 ms remaining
+INFO:__main__:= TURN 101 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 91.738939 ms used, 408.261061 ms remaining
+DEBUG:__main__:31 ms left. Quitting exploration...
+DEBUG:__main__:377.390146255 ms used in ant exploration for 27 ants
+DEBUG:__main__:13.9774128243 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 469.691038 ms used, 30.308962 ms remaining
+INFO:proj.ants:== TURN 102 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 49.071074 ms used, 450.928926 ms remaining
+INFO:__main__:= TURN 102 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 109.471083 ms used, 390.528917 ms remaining
+DEBUG:__main__:28 ms left. Quitting exploration...
+DEBUG:__main__:363.503932953 ms used in ant exploration for 24 ants
+DEBUG:__main__:15.1459972064 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 473.532200 ms used, 26.467800 ms remaining
+INFO:proj.ants:== TURN 103 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 35.571098 ms used, 464.428902 ms remaining
+INFO:__main__:= TURN 103 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 96.953154 ms used, 403.046846 ms remaining
+DEBUG:__main__:31 ms left. Quitting exploration...
+DEBUG:__main__:372.514009476 ms used in ant exploration for 26 ants
+DEBUG:__main__:14.3274619029 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 470.030069 ms used, 29.969931 ms remaining
+INFO:proj.ants:== TURN 104 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 42.129993 ms used, 457.870007 ms remaining
+INFO:__main__:= TURN 104 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 82.237005 ms used, 417.762995 ms remaining
+DEBUG:__main__:31 ms left. Quitting exploration...
+DEBUG:__main__:387.578010559 ms used in ant exploration for 27 ants
+DEBUG:__main__:14.3547411318 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 470.375061 ms used, 29.624939 ms remaining
+INFO:proj.ants:== TURN 105 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 45.006037 ms used, 454.993963 ms remaining
+INFO:__main__:= TURN 105 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 88.567972 ms used, 411.432028 ms remaining
+DEBUG:__main__:28 ms left. Quitting exploration...
+DEBUG:__main__:384.245872498 ms used in ant exploration for 26 ants
+DEBUG:__main__:14.7786874038 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 473.373175 ms used, 26.626825 ms remaining
+INFO:proj.ants:== TURN 106 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 48.341036 ms used, 451.658964 ms remaining
+INFO:__main__:= TURN 106 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 110.654116 ms used, 389.345884 ms remaining
+DEBUG:__main__:33 ms left. Quitting exploration...
+DEBUG:__main__:356.579065323 ms used in ant exploration for 24 ants
+DEBUG:__main__:14.8574610551 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 467.792034 ms used, 32.207966 ms remaining
+INFO:proj.ants:== TURN 107 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 46.832085 ms used, 453.167915 ms remaining
+INFO:__main__:= TURN 107 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 91.583967 ms used, 408.416033 ms remaining
+DEBUG:__main__:28 ms left. Quitting exploration...
+DEBUG:__main__:380.966186523 ms used in ant exploration for 25 ants
+DEBUG:__main__:15.2386474609 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 473.138094 ms used, 26.861906 ms remaining
+INFO:proj.ants:== TURN 108 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 50.385952 ms used, 449.614048 ms remaining
+INFO:__main__:= TURN 108 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 122.565031 ms used, 377.434969 ms remaining
+DEBUG:__main__:37 ms left. Quitting exploration...
+DEBUG:__main__:341.346025467 ms used in ant exploration for 22 ants
+DEBUG:__main__:15.5157284303 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 464.475870 ms used, 35.524130 ms remaining
+INFO:proj.ants:== TURN 109 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 35.973787 ms used, 464.026213 ms remaining
+INFO:__main__:= TURN 109 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 81.827879 ms used, 418.172121 ms remaining
+DEBUG:__main__:25 ms left. Quitting exploration...
+DEBUG:__main__:393.573999405 ms used in ant exploration for 25 ants
+DEBUG:__main__:15.7429599762 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 475.965977 ms used, 24.034023 ms remaining
+INFO:proj.ants:== TURN 110 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 38.758039 ms used, 461.241961 ms remaining
+INFO:__main__:= TURN 110 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 104.827166 ms used, 395.172834 ms remaining
+DEBUG:__main__:29 ms left. Quitting exploration...
+DEBUG:__main__:366.183042526 ms used in ant exploration for 21 ants
+DEBUG:__main__:17.4372877393 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 471.606016 ms used, 28.393984 ms remaining
+INFO:proj.ants:== TURN 111 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 38.326025 ms used, 461.673975 ms remaining
+INFO:__main__:= TURN 111 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 86.401939 ms used, 413.598061 ms remaining
+DEBUG:__main__:32 ms left. Quitting exploration...
+DEBUG:__main__:382.128953934 ms used in ant exploration for 24 ants
+DEBUG:__main__:15.9220397472 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 469.090939 ms used, 30.909061 ms remaining
+INFO:proj.ants:== TURN 112 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 43.606997 ms used, 456.393003 ms remaining
+INFO:__main__:= TURN 112 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 91.659784 ms used, 408.340216 ms remaining
+DEBUG:__main__:34 ms left. Quitting exploration...
+DEBUG:__main__:374.785900116 ms used in ant exploration for 23 ants
+DEBUG:__main__:16.2950391355 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 467.015982 ms used, 32.984018 ms remaining
+INFO:proj.ants:== TURN 113 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 45.942068 ms used, 454.057932 ms remaining
+INFO:__main__:= TURN 113 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 96.845150 ms used, 403.154850 ms remaining
+DEBUG:__main__:34 ms left. Quitting exploration...
+DEBUG:__main__:370.069026947 ms used in ant exploration for 23 ants
+DEBUG:__main__:16.0899576933 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 467.486143 ms used, 32.513857 ms remaining
+INFO:proj.ants:== TURN 114 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 47.435045 ms used, 452.564955 ms remaining
+INFO:__main__:= TURN 114 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 99.558115 ms used, 400.441885 ms remaining
+DEBUG:__main__:30 ms left. Quitting exploration...
+DEBUG:__main__:371.093988419 ms used in ant exploration for 23 ants
+DEBUG:__main__:16.1345212356 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 471.223116 ms used, 28.776884 ms remaining
+INFO:proj.ants:== TURN 115 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 42.932034 ms used, 457.067966 ms remaining
+INFO:__main__:= TURN 115 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 117.254972 ms used, 382.745028 ms remaining
+DEBUG:__main__:41 ms left. Quitting exploration...
+DEBUG:__main__:342.252016068 ms used in ant exploration for 21 ants
+DEBUG:__main__:16.2977150508 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 460.078955 ms used, 39.921045 ms remaining
+INFO:proj.ants:== TURN 116 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 33.397913 ms used, 466.602087 ms remaining
+INFO:__main__:= TURN 116 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 110.022783 ms used, 389.977217 ms remaining
+DEBUG:__main__:34 ms left. Quitting exploration...
+DEBUG:__main__:356.615066528 ms used in ant exploration for 22 ants
+DEBUG:__main__:16.2097757513 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 467.236996 ms used, 32.763004 ms remaining
+INFO:proj.ants:== TURN 117 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 37.278175 ms used, 462.721825 ms remaining
+INFO:__main__:= TURN 117 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 152.431011 ms used, 347.568989 ms remaining
+DEBUG:__main__:29 ms left. Quitting exploration...
+DEBUG:__main__:319.110155106 ms used in ant exploration for 21 ants
+DEBUG:__main__:15.1957216717 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 472.154140 ms used, 27.845860 ms remaining
+INFO:proj.ants:== TURN 118 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 31.872034 ms used, 468.127966 ms remaining
+INFO:__main__:= TURN 118 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 110.201836 ms used, 389.798164 ms remaining
+DEBUG:__main__:25 ms left. Quitting exploration...
+DEBUG:__main__:365.593910217 ms used in ant exploration for 24 ants
+DEBUG:__main__:15.2330795924 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 476.405859 ms used, 23.594141 ms remaining
+INFO:proj.ants:== TURN 119 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 33.021927 ms used, 466.978073 ms remaining
+INFO:__main__:= TURN 119 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 129.728079 ms used, 370.271921 ms remaining
+DEBUG:__main__:31 ms left. Quitting exploration...
+DEBUG:__main__:340.234041214 ms used in ant exploration for 30 ants
+DEBUG:__main__:11.3411347071 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 470.604897 ms used, 29.395103 ms remaining
+INFO:proj.ants:== TURN 120 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 34.933090 ms used, 465.066910 ms remaining
+INFO:__main__:= TURN 120 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 112.227201 ms used, 387.772799 ms remaining
+DEBUG:__main__:35 ms left. Quitting exploration...
+DEBUG:__main__:353.091955185 ms used in ant exploration for 23 ants
+DEBUG:__main__:15.3518241385 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 465.913057 ms used, 34.086943 ms remaining
+INFO:proj.ants:== TURN 121 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 34.744024 ms used, 465.255976 ms remaining
+INFO:__main__:= TURN 121 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 137.995958 ms used, 362.004042 ms remaining
+DEBUG:__main__:26 ms left. Quitting exploration...
+DEBUG:__main__:336.511135101 ms used in ant exploration for 22 ants
+DEBUG:__main__:15.2959606864 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 475.126028 ms used, 24.873972 ms remaining
+INFO:proj.ants:== TURN 122 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 37.948132 ms used, 462.051868 ms remaining
+INFO:__main__:= TURN 122 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 97.407103 ms used, 402.592897 ms remaining
+DEBUG:__main__:40 ms left. Quitting exploration...
+DEBUG:__main__:363.480091095 ms used in ant exploration for 22 ants
+DEBUG:__main__:16.5218223225 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 461.503029 ms used, 38.496971 ms remaining
+INFO:proj.ants:== TURN 123 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 38.346767 ms used, 461.653233 ms remaining
+INFO:__main__:= TURN 123 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 98.756790 ms used, 401.243210 ms remaining
+DEBUG:__main__:33 ms left. Quitting exploration...
+DEBUG:__main__:368.849992752 ms used in ant exploration for 24 ants
+DEBUG:__main__:15.368749698 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 468.203783 ms used, 31.796217 ms remaining
+INFO:proj.ants:== TURN 124 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 33.674002 ms used, 466.325998 ms remaining
+INFO:__main__:= TURN 124 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 115.247965 ms used, 384.752035 ms remaining
+DEBUG:__main__:34 ms left. Quitting exploration...
+DEBUG:__main__:351.599931717 ms used in ant exploration for 23 ants
+DEBUG:__main__:15.2869535529 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 467.411995 ms used, 32.588005 ms remaining
+INFO:proj.ants:== TURN 125 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 25.562048 ms used, 474.437952 ms remaining
+INFO:__main__:= TURN 125 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 85.263014 ms used, 414.736986 ms remaining
+DEBUG:__main__:29 ms left. Quitting exploration...
+DEBUG:__main__:386.608839035 ms used in ant exploration for 25 ants
+DEBUG:__main__:15.4643535614 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 472.455025 ms used, 27.544975 ms remaining
+INFO:proj.ants:== TURN 126 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 35.957813 ms used, 464.042187 ms remaining
+INFO:__main__:= TURN 126 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 117.571831 ms used, 382.428169 ms remaining
+DEBUG:__main__:31 ms left. Quitting exploration...
+DEBUG:__main__:351.866006851 ms used in ant exploration for 23 ants
+DEBUG:__main__:15.298522037 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 470.038891 ms used, 29.961109 ms remaining
+INFO:proj.ants:== TURN 127 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 37.306070 ms used, 462.693930 ms remaining
+INFO:__main__:= TURN 127 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 117.896080 ms used, 382.103920 ms remaining
+DEBUG:__main__:32 ms left. Quitting exploration...
+DEBUG:__main__:350.661993027 ms used in ant exploration for 23 ants
+DEBUG:__main__:15.2461736099 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 469.171047 ms used, 30.828953 ms remaining
+INFO:proj.ants:== TURN 128 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 30.116796 ms used, 469.883204 ms remaining
+INFO:__main__:= TURN 128 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 94.703913 ms used, 405.296087 ms remaining
+DEBUG:__main__:38 ms left. Quitting exploration...
+DEBUG:__main__:367.391109467 ms used in ant exploration for 25 ants
+DEBUG:__main__:14.6956443787 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 462.682009 ms used, 37.317991 ms remaining
+INFO:proj.ants:== TURN 129 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 32.151937 ms used, 467.848063 ms remaining
+INFO:__main__:= TURN 129 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 144.434929 ms used, 355.565071 ms remaining
+DEBUG:__main__:32 ms left. Quitting exploration...
+DEBUG:__main__:324.070930481 ms used in ant exploration for 21 ants
+DEBUG:__main__:15.4319490705 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 469.124079 ms used, 30.875921 ms remaining
+INFO:proj.ants:== TURN 130 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 33.479929 ms used, 466.520071 ms remaining
+INFO:__main__:= TURN 130 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 140.028000 ms used, 359.972000 ms remaining
+DEBUG:__main__:37 ms left. Quitting exploration...
+DEBUG:__main__:322.975873947 ms used in ant exploration for 21 ants
+DEBUG:__main__:15.3798035213 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 463.585854 ms used, 36.414146 ms remaining
+INFO:proj.ants:== TURN 131 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 24.116039 ms used, 475.883961 ms remaining
+INFO:__main__:= TURN 131 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 108.040094 ms used, 391.959906 ms remaining
+DEBUG:__main__:40 ms left. Quitting exploration...
+DEBUG:__main__:352.780818939 ms used in ant exploration for 23 ants
+DEBUG:__main__:15.3382964756 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 461.442947 ms used, 38.557053 ms remaining
+INFO:proj.ants:== TURN 132 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 28.077841 ms used, 471.922159 ms remaining
+INFO:__main__:= TURN 132 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 91.746807 ms used, 408.253193 ms remaining
+DEBUG:__main__:34 ms left. Quitting exploration...
+DEBUG:__main__:374.372005463 ms used in ant exploration for 25 ants
+DEBUG:__main__:14.9748802185 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 466.735840 ms used, 33.264160 ms remaining
+INFO:proj.ants:== TURN 133 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 31.283140 ms used, 468.716860 ms remaining
+INFO:__main__:= TURN 133 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 97.783089 ms used, 402.216911 ms remaining
+DEBUG:__main__:32 ms left. Quitting exploration...
+DEBUG:__main__:370.317935944 ms used in ant exploration for 24 ants
+DEBUG:__main__:15.4299139977 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 468.729019 ms used, 31.270981 ms remaining
+INFO:proj.ants:== TURN 134 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 33.987999 ms used, 466.012001 ms remaining
+INFO:__main__:= TURN 134 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 86.025000 ms used, 413.975000 ms remaining
+DEBUG:__main__:28 ms left. Quitting exploration...
+DEBUG:__main__:386.867046356 ms used in ant exploration for 39 ants
+DEBUG:__main__:9.91966785529 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 473.324060 ms used, 26.675940 ms remaining
+INFO:proj.ants:== TURN 135 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 24.326086 ms used, 475.673914 ms remaining
+INFO:__main__:= TURN 135 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 84.362030 ms used, 415.637970 ms remaining
+DEBUG:__main__:29 ms left. Quitting exploration...
+DEBUG:__main__:387.301921844 ms used in ant exploration for 39 ants
+DEBUG:__main__:9.93081850883 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 472.114086 ms used, 27.885914 ms remaining
+INFO:proj.ants:== TURN 136 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.488003 ms used, 482.511997 ms remaining
+INFO:__main__:= TURN 136 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 77.315092 ms used, 422.684908 ms remaining
+DEBUG:__main__:29 ms left. Quitting exploration...
+DEBUG:__main__:393.73087883 ms used in ant exploration for 40 ants
+DEBUG:__main__:9.84327197075 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 471.491098 ms used, 28.508902 ms remaining
+INFO:proj.ants:== TURN 137 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 16.202927 ms used, 483.797073 ms remaining
+INFO:__main__:= TURN 137 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 61.311007 ms used, 438.688993 ms remaining
+DEBUG:__main__:33 ms left. Quitting exploration...
+DEBUG:__main__:405.987977982 ms used in ant exploration for 41 ants
+DEBUG:__main__:9.90214580443 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 467.719078 ms used, 32.280922 ms remaining
+INFO:proj.ants:== TURN 138 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.547131 ms used, 482.452869 ms remaining
+INFO:__main__:= TURN 138 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 78.770161 ms used, 421.229839 ms remaining
+DEBUG:__main__:27 ms left. Quitting exploration...
+DEBUG:__main__:394.692897797 ms used in ant exploration for 40 ants
+DEBUG:__main__:9.86732244492 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 473.907232 ms used, 26.092768 ms remaining
+INFO:proj.ants:== TURN 139 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.085884 ms used, 480.914116 ms remaining
+INFO:__main__:= TURN 139 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 72.274923 ms used, 427.725077 ms remaining
+DEBUG:__main__:32 ms left. Quitting exploration...
+DEBUG:__main__:396.025180817 ms used in ant exploration for 40 ants
+DEBUG:__main__:9.90062952042 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 468.726873 ms used, 31.273127 ms remaining
+INFO:proj.ants:== TURN 140 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 20.688057 ms used, 479.311943 ms remaining
+INFO:__main__:= TURN 140 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 89.736938 ms used, 410.263062 ms remaining
+DEBUG:__main__:135.581016541 ms used in ant exploration for 10 ants
+DEBUG:__main__:13.5581016541 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 225.802898 ms used, 274.197102 ms remaining
+INFO:proj.ants:== TURN 141 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.404940 ms used, 484.595060 ms remaining
+INFO:__main__:= TURN 141 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 83.281994 ms used, 416.718006 ms remaining
+DEBUG:__main__:40.2410030365 ms used in ant exploration for 4 ants
+DEBUG:__main__:10.0602507591 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 123.980045 ms used, 376.019955 ms remaining
+INFO:proj.ants:== TURN 142 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 16.700983 ms used, 483.299017 ms remaining
+INFO:__main__:= TURN 142 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 84.460974 ms used, 415.539026 ms remaining
+DEBUG:__main__:59.8978996277 ms used in ant exploration for 6 ants
+DEBUG:__main__:9.98298327128 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 144.821882 ms used, 355.178118 ms remaining
+INFO:proj.ants:== TURN 143 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 16.951799 ms used, 483.048201 ms remaining
+INFO:__main__:= TURN 143 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 76.548815 ms used, 423.451185 ms remaining
+DEBUG:__main__:60.2388381958 ms used in ant exploration for 6 ants
+DEBUG:__main__:10.039806366 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 137.269974 ms used, 362.730026 ms remaining
+INFO:proj.ants:== TURN 144 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 16.600847 ms used, 483.399153 ms remaining
+INFO:__main__:= TURN 144 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 84.203959 ms used, 415.796041 ms remaining
+DEBUG:__main__:97.0129966736 ms used in ant exploration for 9 ants
+DEBUG:__main__:10.7792218526 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 181.705952 ms used, 318.294048 ms remaining
+INFO:proj.ants:== TURN 145 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 12.313128 ms used, 487.686872 ms remaining
+INFO:__main__:= TURN 145 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 72.765112 ms used, 427.234888 ms remaining
+DEBUG:__main__:80.4049968719 ms used in ant exploration for 8 ants
+DEBUG:__main__:10.050624609 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 153.638124 ms used, 346.361876 ms remaining
+INFO:proj.ants:== TURN 146 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.312029 ms used, 485.687971 ms remaining
+INFO:__main__:= TURN 146 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 61.581135 ms used, 438.418865 ms remaining
+DEBUG:__main__:124.596834183 ms used in ant exploration for 12 ants
+DEBUG:__main__:10.3830695152 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 186.637163 ms used, 313.362837 ms remaining
+INFO:proj.ants:== TURN 147 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.738010 ms used, 484.261990 ms remaining
+INFO:__main__:= TURN 147 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 76.981068 ms used, 423.018932 ms remaining
+DEBUG:__main__:71.6018676758 ms used in ant exploration for 7 ants
+DEBUG:__main__:10.2288382394 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 149.026871 ms used, 350.973129 ms remaining
+INFO:proj.ants:== TURN 148 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.055035 ms used, 482.944965 ms remaining
+INFO:__main__:= TURN 148 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 63.868046 ms used, 436.131954 ms remaining
+DEBUG:__main__:125.864028931 ms used in ant exploration for 12 ants
+DEBUG:__main__:10.4886690776 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 190.186024 ms used, 309.813976 ms remaining
+INFO:proj.ants:== TURN 149 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.463902 ms used, 485.536098 ms remaining
+INFO:__main__:= TURN 149 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 68.236828 ms used, 431.763172 ms remaining
+DEBUG:__main__:106.862068176 ms used in ant exploration for 10 ants
+DEBUG:__main__:10.6862068176 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 175.548792 ms used, 324.451208 ms remaining
+INFO:proj.ants:== TURN 150 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 16.500950 ms used, 483.499050 ms remaining
+INFO:__main__:= TURN 150 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 69.309950 ms used, 430.690050 ms remaining
+DEBUG:__main__:134.797811508 ms used in ant exploration for 11 ants
+DEBUG:__main__:12.2543465007 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 204.598904 ms used, 295.401096 ms remaining
+INFO:proj.ants:== TURN 151 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.091896 ms used, 484.908104 ms remaining
+INFO:__main__:= TURN 151 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 68.581104 ms used, 431.418896 ms remaining
+DEBUG:__main__:140.681028366 ms used in ant exploration for 12 ants
+DEBUG:__main__:11.7234190305 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 209.707975 ms used, 290.292025 ms remaining
+INFO:proj.ants:== TURN 152 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 16.674995 ms used, 483.325005 ms remaining
+INFO:__main__:= TURN 152 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 83.030939 ms used, 416.969061 ms remaining
+DEBUG:__main__:154.344081879 ms used in ant exploration for 13 ants
+DEBUG:__main__:11.872621683 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 237.840891 ms used, 262.159109 ms remaining
+INFO:proj.ants:== TURN 153 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.768953 ms used, 480.231047 ms remaining
+INFO:__main__:= TURN 153 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 84.624052 ms used, 415.375948 ms remaining
+DEBUG:__main__:141.05796814 ms used in ant exploration for 12 ants
+DEBUG:__main__:11.7548306783 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 226.130962 ms used, 273.869038 ms remaining
+INFO:proj.ants:== TURN 154 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.758991 ms used, 484.241009 ms remaining
+INFO:__main__:= TURN 154 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 86.009026 ms used, 413.990974 ms remaining
+DEBUG:__main__:185.513973236 ms used in ant exploration for 14 ants
+DEBUG:__main__:13.2509980883 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 272.012949 ms used, 227.987051 ms remaining
+INFO:proj.ants:== TURN 155 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.707918 ms used, 480.292082 ms remaining
+INFO:__main__:= TURN 155 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 89.260817 ms used, 410.739183 ms remaining
+DEBUG:__main__:160.98690033 ms used in ant exploration for 12 ants
+DEBUG:__main__:13.4155750275 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 250.731945 ms used, 249.268055 ms remaining
+INFO:proj.ants:== TURN 156 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.372940 ms used, 480.627060 ms remaining
+INFO:__main__:= TURN 156 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 74.043989 ms used, 425.956011 ms remaining
+DEBUG:__main__:224.312067032 ms used in ant exploration for 16 ants
+DEBUG:__main__:14.0195041895 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 298.846960 ms used, 201.153040 ms remaining
+INFO:proj.ants:== TURN 157 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.739058 ms used, 482.260942 ms remaining
+INFO:__main__:= TURN 157 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 80.684900 ms used, 419.315100 ms remaining
+DEBUG:__main__:283.075094223 ms used in ant exploration for 18 ants
+DEBUG:__main__:15.7263941235 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 364.249945 ms used, 135.750055 ms remaining
+INFO:proj.ants:== TURN 158 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.702963 ms used, 484.297037 ms remaining
+INFO:__main__:= TURN 158 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 62.307119 ms used, 437.692881 ms remaining
+DEBUG:__main__:313.736200333 ms used in ant exploration for 19 ants
+DEBUG:__main__:16.5124315965 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 376.510143 ms used, 123.489857 ms remaining
+INFO:proj.ants:== TURN 159 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.411947 ms used, 482.588053 ms remaining
+INFO:__main__:= TURN 159 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 79.666138 ms used, 420.333862 ms remaining
+DEBUG:__main__:362.170934677 ms used in ant exploration for 20 ants
+DEBUG:__main__:18.1085467339 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 442.301035 ms used, 57.698965 ms remaining
+INFO:proj.ants:== TURN 160 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 20.330906 ms used, 479.669094 ms remaining
+INFO:__main__:= TURN 160 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 68.696976 ms used, 431.303024 ms remaining
+DEBUG:__main__:390.79284668 ms used in ant exploration for 22 ants
+DEBUG:__main__:17.7633112127 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 459.980011 ms used, 40.019989 ms remaining
+INFO:proj.ants:== TURN 161 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 22.159100 ms used, 477.840900 ms remaining
+INFO:__main__:= TURN 161 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 86.881161 ms used, 413.118839 ms remaining
+DEBUG:__main__:371.042966843 ms used in ant exploration for 20 ants
+DEBUG:__main__:18.5521483421 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 458.409071 ms used, 41.590929 ms remaining
+INFO:proj.ants:== TURN 162 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.377087 ms used, 478.622913 ms remaining
+INFO:__main__:= TURN 162 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 71.335077 ms used, 428.664923 ms remaining
+DEBUG:__main__:32 ms left. Quitting exploration...
+DEBUG:__main__:396.703004837 ms used in ant exploration for 20 ants
+DEBUG:__main__:19.8351502419 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 468.466997 ms used, 31.533003 ms remaining
+INFO:proj.ants:== TURN 163 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.651009 ms used, 481.348991 ms remaining
+INFO:__main__:= TURN 163 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 85.047960 ms used, 414.952040 ms remaining
+DEBUG:__main__:50 ms left. Quitting exploration...
+DEBUG:__main__:364.939928055 ms used in ant exploration for 16 ants
+DEBUG:__main__:22.8087455034 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 450.428963 ms used, 49.571037 ms remaining
+INFO:proj.ants:== TURN 164 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.739006 ms used, 478.260994 ms remaining
+INFO:__main__:= TURN 164 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 74.154854 ms used, 425.845146 ms remaining
+DEBUG:__main__:45 ms left. Quitting exploration...
+DEBUG:__main__:380.852937698 ms used in ant exploration for 18 ants
+DEBUG:__main__:21.1584965388 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 455.442905 ms used, 44.557095 ms remaining
+INFO:proj.ants:== TURN 165 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.066044 ms used, 476.933956 ms remaining
+INFO:__main__:= TURN 165 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 91.780901 ms used, 408.219099 ms remaining
+DEBUG:__main__:34 ms left. Quitting exploration...
+DEBUG:__main__:375.14090538 ms used in ant exploration for 19 ants
+DEBUG:__main__:19.7442581779 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 467.356920 ms used, 32.643080 ms remaining
+INFO:proj.ants:== TURN 166 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.163940 ms used, 478.836060 ms remaining
+INFO:__main__:= TURN 166 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 75.937033 ms used, 424.062967 ms remaining
+DEBUG:__main__:31 ms left. Quitting exploration...
+DEBUG:__main__:393.435955048 ms used in ant exploration for 20 ants
+DEBUG:__main__:19.6717977524 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 469.803095 ms used, 30.196905 ms remaining
+INFO:proj.ants:== TURN 167 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 21.520853 ms used, 478.479147 ms remaining
+INFO:__main__:= TURN 167 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 92.328787 ms used, 407.671213 ms remaining
+DEBUG:__main__:49 ms left. Quitting exploration...
+DEBUG:__main__:359.190940857 ms used in ant exploration for 17 ants
+DEBUG:__main__:21.1288788739 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 451.952934 ms used, 48.047066 ms remaining
+INFO:proj.ants:== TURN 168 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 19.673109 ms used, 480.326891 ms remaining
+INFO:__main__:= TURN 168 - do_turn - BEGINS =
+DEBUG:proj.ants:BEFORE EXPLORE: 75.819016 ms used, 424.180984 ms remaining
+DEBUG:__main__:30 ms left. Quitting exploration...
+DEBUG:__main__:394.841194153 ms used in ant exploration for 19 ants
+DEBUG:__main__:20.7811154817 ms each
+INFO:__main__:Most used: 492.696046829 ms
+DEBUG:proj.ants:FINAL: 471.127987 ms used, 28.872013 ms remaining

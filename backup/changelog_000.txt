@@ -1,0 +1,56 @@
+NOTES
+- 60x90 map -> 93-101 ms for Location objects
+- 150x150 map -> 515ms for Location objects
+- on 60x90 map, usually costs >3 seconds to generate ranges (timeout)
+  - unknown reason for sometimes costing 2.2 seconds to generate ranges
+    - in one case, 0.57ms/cell in part1 but 0.40ms/cell in part2
+  - 0.53-0.57 milliseconds per cell (measured with half of rows)
+  - 0.48-0.51 milliseconds per cell if only vision (half rows)
+  - 0.50-0.53 milliseconds per cell if vision+gather (half rows)
+  
+- if efficiency ever required, consider bitmask/field
+  - try using numpy; use zip in Downloads as example
+
+TODO
+
+- Location object as based on collections.namedtuple
+  - move code from ants to location
+  - consider dividing cells into two turns for gen_ranges if too many
+    - do half, then depending on time used do other half
+- ? Hill, Water objects as subclasses of Location
+- MyAnt object with pos = Location
+- possibly an OtherAnt object
+
+- keep track of food even out of sight
+
+- decide whether or not to keep map for rapid access
+- replace unnecessary lists with sets
+- decide when to gen_vision
+
+- Logging
+- Default Game for testing (200x200 is max size, maps/multi_hill_maze/maze_05p_01.map is 150x150)
+
+DONE
+
+StarterBot.py
+- logging improvements
+
+ants.py
+- converted visible() to gen_vision(), with Location.visible as bool and self.vision as set 
+- moved constants to constants
+- moved unoccupied, passable (as properties), destination(rename to aim) to location
+- changed rendering
+- added sets to update
+
+- made changes up to Nov. 6 as in official (time.clock -> time.time) 
+- begin logging
+- added cur_turn, dimensions
+- added loc (index of Location objects)
+- setup time timer
+- vision/attack/gather_range (lists of other Locations) generated during setup
+
+save.py
+- convert directory path to underscores (ie to prevent conflicting ants.py)
+
+tools/visualizer/visualize_locally
+- change default browser to chrome

@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+tools/playgame.py --engine_seed 42 --player_seed 42 --end_wait=0.25 --verbose --log_dir game_logs --turns 3 --map_file tools/maps/multi_hill_maze/maze_05p_01.map "python $1 $2" "python tools/sample_bots/python/LeftyBot.py" "python tools/sample_bots/python/GreedyBot.py" "python tools/sample_bots/python/GreedyBot.py" "python tools/sample_bots/python/LeftyBot.py" -e --strict --capture_errors --food=none --nolaunch

@@ -1,0 +1,154 @@
+NOTES
+- 60x90 map -> 93-101 ms for Location objects
+- 150x150 map -> 515ms for Location objects
+- on 60x90 map, usually costs >3 seconds to generate ranges (timeout)
+  - unknown reason for sometimes costing 2.2 seconds to generate ranges
+    - in one case, 0.57ms/cell in part1 but 0.40ms/cell in part2
+  - 0.53-0.57 milliseconds per cell (measured with half of rows)
+  - 0.48-0.51 milliseconds per cell if only vision (half rows)
+  - 0.50-0.53 milliseconds per cell if vision+gather (half rows)
+- TutorialBot currently uses 1-5 ms/ant at beginning for exploration
+  - for 60x90, peaks ~ 25ms then goes down once mostly explored
+-
+- if efficiency ever required, consider bitmask/field
+  - try using numpy; use zip in Downloads as example
+    - diffusion setup 7-10 times faster! (~70ms -> ~10ms on 60x90)
+    - diffusion ~85 times faster! (~18.5-19ms -> 0.2-0.4ms per iteration on 60x90)
+
+
+- suburb exploration decreases timeouts and improves obstacle navigation
+  but the latter causes the bot to fail on tutorial map with improved
+  ability to suicide charge
+
+- scent maps: red to yellow/violet works well
+
+TODO
+- make sure visibility code is accurate
+  - is version for smaller radius better than rolling?
+
+- exploration scent: unknown + unseen emit
+- enemy ants emit scent; stronger as closer to hill (weaker if only one hill)
+- defence: single-emit hill scent -> weak zones = low concentration
+  - own ants block; enemies emit negative
+- combat: Memetix style?
+
+- possible inefficiencies:
+  - Location.passable()
+  - roll (esp. from do_turn like diffusion)
+  - gen_vision_field
+  - 
+  
+
+- check if vision field generation takes too much time with many ants
+- consider using spare time to generate more ranges
+  - store done/undone in a set?
+- would arrays grant much greater efficiency?
+  
+- add testing : ie check vision, etc. actually works
+- try https://github.com/j-h-a/aichallenge/blob/vis_overlay/VIS_OVERLAY.md
+- Default Game for testing (200x200 is max size, maps/multi_hill_maze/maze_05p_01.map is 150x150)
+  - 6hills, 108x144: multi_hill_maze/maze_03p_01.map
+
+- MyAnt object with pos = Location
+- assassin pairs
+
+DONE
+
+proj/numAnts.py
+v2.1 (002)
+- track invisible food
+v2 (001)
+- remove ranges in favor of numpy arrays and cell.adj
+
+proj/numLocation.py
+v2
+- remove ranges
+- stamp functions
+- adj property
+
+HackDiffBot
+v1 (000)
+- diffusion limit by time
+- increase enemy hill scent
+- reduce scent every turn
+- diffuse function
+
+ExploreBot
+* v3, 3.1 (002)
+- exploration diffusion
+  - exploration scent reset every turn
+  - unexplored edge is clamp; invisible just initialized
+- food scent decreases over time
+- ants emit repelling food scent
+- tune factors / iterations
+NumDiffBot
+* v2.2 (006)
+- use numAnts 
+  - food is persistent
+* v2.1
+- clamps replace scents
+- different visualization shading
+* v2 (004)
+- reset blocked scents
+- 50 iterations
+* v1.5
+- use 2d arrays instead of iteration
+DiffusionBot
+* v1
+- 10 diffusion iterations
+- figured out color map
+* v0.1 (002)
+- implemented diffusion (unified)
+- added custom visualization to options
+
+AstarBot
+* v1 (003)
+- upper limit on A* searches
+* v0 (002)
+- A* pathfinding for food
+- created Node class
+ 
+ants.py
+* v1.1.1 (015)
+- gen_ranges() for newly seen land
+- log_time function reporting used, left
+
+TutorialBot
+* v1.2 (010)
+- regionalize function -> (sanctum, suburb)
+- exploration uses suburb of explored with dynamic time limit
+* v1.0 (005)
+- Bot instance attributes: world, unknown sets
+- Follows online tutorial:
+  - collision detection
+  - food gathering
+  - evac hill
+  - exploration
+  - attack hills
+ 
+StarterBot.py
+- logging improvements
+
+ants.py / location.py : Version 1.0 (ants_012, location_007)
+- moved direction to location, copied manhattan to location
+- converted visible() to gen_vision(), with Location.visible as bool and self.vision as set 
+- moved constants to constants
+- moved unoccupied, passable (as properties), destination(rename to aim) to location
+- changed rendering
+- added sets to update
+
+- made changes up to Nov. 6 as in official (time.clock -> time.time) 
+- begin logging
+- added cur_turn, dimensions
+- added loc (index of Location objects)
+- setup time timer
+- vision/attack/gather_range (lists of other Locations) generated during setup
+
+save.py
+- convert directory path to underscores (ie to prevent conflicting ants.py)
+
+tools/playgame.py
+- back to 1000 turns max as is common
+- change defaults to same as website (incl. turntime, turns)
+tools/visualizer/visualize_locally
+- change default browser to chrome

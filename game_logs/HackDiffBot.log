@@ -1,0 +1,1666 @@
+INFO:__main__:options: {'visualize': False, 'level': 'DEBUG'}
+INFO:proj.ants:======= GAME BEGINS ======= 
+INFO:proj.ants:== SETUP BEGINS == 
+INFO:proj.ants:Dimensions: (60, 90)
+DEBUG:proj.ants:Used on Locations = 0.0861580371857 seconds
+DEBUG:proj.ants:Used on gen_ranges p1 = 1.065005 seconds
+DEBUG:proj.ants:Per cell: 0.438274 milliseconds
+DEBUG:proj.ants:remaining in setup = 1848 milliseconds
+DEBUG:__main__:1840 ms left after bot setup
+INFO:proj.ants:== TURN 1 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.557920 ms used, 496.442080 ms remaining
+INFO:__main__:= TURN 1 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 105.977058 ms used, 394.022942 ms remaining
+INFO:__main__:14 diff iterations: 267.941951752 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 374.362946 ms used, 125.637054 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 374.512910843 ms
+DEBUG:proj.ants:FINAL: 374.583960 ms used, 125.416040 ms remaining
+INFO:proj.ants:== TURN 2 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.314091 ms used, 497.685909 ms remaining
+INFO:__main__:= TURN 2 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 71.820974 ms used, 428.179026 ms remaining
+INFO:__main__:16 diff iterations: 305.74798584 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.009081 ms used, 121.990919 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 378.158092499 ms
+DEBUG:proj.ants:FINAL: 378.229141 ms used, 121.770859 ms remaining
+INFO:proj.ants:== TURN 3 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.479076 ms used, 497.520924 ms remaining
+INFO:__main__:= TURN 3 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 75.683117 ms used, 424.316883 ms remaining
+INFO:__main__:11 diff iterations: 291.595935822 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 367.754936 ms used, 132.245064 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 378.158092499 ms
+DEBUG:proj.ants:FINAL: 368.081093 ms used, 131.918907 ms remaining
+INFO:proj.ants:== TURN 4 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.611160 ms used, 497.388840 ms remaining
+INFO:__main__:= TURN 4 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 81.930161 ms used, 418.069839 ms remaining
+INFO:__main__:11 diff iterations: 292.783021927 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.210047 ms used, 124.789953 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 378.158092499 ms
+DEBUG:proj.ants:FINAL: 375.535011 ms used, 124.464989 ms remaining
+INFO:proj.ants:== TURN 5 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.744198 ms used, 497.255802 ms remaining
+INFO:__main__:= TURN 5 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 75.866222 ms used, 424.133778 ms remaining
+INFO:__main__:16 diff iterations: 304.901838303 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.209135 ms used, 118.790865 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 381.359100342 ms
+DEBUG:proj.ants:FINAL: 381.430149 ms used, 118.569851 ms remaining
+INFO:proj.ants:== TURN 6 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.207041 ms used, 497.792959 ms remaining
+INFO:__main__:= TURN 6 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 75.012207 ms used, 424.987793 ms remaining
+INFO:__main__:16 diff iterations: 305.731058121 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.177187 ms used, 118.822813 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 381.359100342 ms
+DEBUG:proj.ants:FINAL: 381.398201 ms used, 118.601799 ms remaining
+INFO:proj.ants:== TURN 7 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.630949 ms used, 497.369051 ms remaining
+INFO:__main__:= TURN 7 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.584961 ms used, 425.415039 ms remaining
+INFO:__main__:16 diff iterations: 305.217027664 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.231857 ms used, 119.768143 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 381.359100342 ms
+DEBUG:proj.ants:FINAL: 380.451918 ms used, 119.548082 ms remaining
+INFO:proj.ants:== TURN 8 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.422094 ms used, 497.577906 ms remaining
+INFO:__main__:= TURN 8 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 71.668148 ms used, 428.331852 ms remaining
+INFO:__main__:12 diff iterations: 317.862033844 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 390.041113 ms used, 109.958887 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 390.367985 ms used, 109.632015 ms remaining
+INFO:proj.ants:== TURN 9 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.021002 ms used, 496.978998 ms remaining
+INFO:__main__:= TURN 9 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.971054 ms used, 423.028946 ms remaining
+INFO:__main__:16 diff iterations: 310.222864151 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.623072 ms used, 112.376928 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 387.866974 ms used, 112.133026 ms remaining
+INFO:proj.ants:== TURN 10 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.007961 ms used, 497.992039 ms remaining
+INFO:__main__:= TURN 10 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.638844 ms used, 425.361156 ms remaining
+INFO:__main__:16 diff iterations: 304.85200882 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 379.930973 ms used, 120.069027 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 380.149841 ms used, 119.850159 ms remaining
+INFO:proj.ants:== TURN 11 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.652023 ms used, 495.347977 ms remaining
+INFO:__main__:= TURN 11 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 93.580008 ms used, 406.419992 ms remaining
+INFO:__main__:10 diff iterations: 270.380973816 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 364.506960 ms used, 135.493040 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 364.832878 ms used, 135.167122 ms remaining
+INFO:proj.ants:== TURN 12 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.308960 ms used, 492.691040 ms remaining
+INFO:__main__:= TURN 12 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 95.613956 ms used, 404.386044 ms remaining
+INFO:__main__:10 diff iterations: 268.042087555 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 364.176989 ms used, 135.823011 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 364.503860 ms used, 135.496140 ms remaining
+INFO:proj.ants:== TURN 13 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.888079 ms used, 492.111921 ms remaining
+INFO:__main__:= TURN 13 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.640057 ms used, 422.359943 ms remaining
+INFO:__main__:13 diff iterations: 304.175138474 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.441998 ms used, 117.558002 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 383.114100 ms used, 116.885900 ms remaining
+INFO:proj.ants:== TURN 14 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.866911 ms used, 496.133089 ms remaining
+INFO:__main__:= TURN 14 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.399015 ms used, 422.600985 ms remaining
+INFO:__main__:16 diff iterations: 306.275129318 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 384.134054 ms used, 115.865946 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 384.353876 ms used, 115.646124 ms remaining
+INFO:proj.ants:== TURN 15 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.635023 ms used, 494.364977 ms remaining
+INFO:__main__:= TURN 15 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.551105 ms used, 425.448895 ms remaining
+INFO:__main__:14 diff iterations: 312.353134155 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.427092 ms used, 112.572908 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 387.652159 ms used, 112.347841 ms remaining
+INFO:proj.ants:== TURN 16 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 9.054899 ms used, 490.945101 ms remaining
+INFO:__main__:= TURN 16 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.873873 ms used, 421.126127 ms remaining
+INFO:__main__:12 diff iterations: 305.930137634 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.330915 ms used, 114.669085 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 385.662079 ms used, 114.337921 ms remaining
+INFO:proj.ants:== TURN 17 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.406141 ms used, 494.593859 ms remaining
+INFO:__main__:= TURN 17 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 103.655100 ms used, 396.344900 ms remaining
+INFO:__main__:10 diff iterations: 269.576072693 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.787165 ms used, 126.212835 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 374.116182 ms used, 125.883818 ms remaining
+INFO:proj.ants:== TURN 18 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.054018 ms used, 491.945982 ms remaining
+INFO:__main__:= TURN 18 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 79.007864 ms used, 420.992136 ms remaining
+INFO:__main__:13 diff iterations: 289.461135864 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 368.976831 ms used, 131.023169 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 369.199991 ms used, 130.800009 ms remaining
+INFO:proj.ants:== TURN 19 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.927946 ms used, 496.072054 ms remaining
+INFO:__main__:= TURN 19 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.744888 ms used, 421.255112 ms remaining
+INFO:__main__:13 diff iterations: 310.041904449 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 389.460087 ms used, 110.539913 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 389.786005 ms used, 110.213995 ms remaining
+INFO:proj.ants:== TURN 20 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.021955 ms used, 496.978045 ms remaining
+INFO:__main__:= TURN 20 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.503847 ms used, 421.496153 ms remaining
+INFO:__main__:15 diff iterations: 296.571969986 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.715971 ms used, 124.284029 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 375.952959 ms used, 124.047041 ms remaining
+INFO:proj.ants:== TURN 21 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.985882 ms used, 496.014118 ms remaining
+INFO:__main__:= TURN 21 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 103.173971 ms used, 396.826029 ms remaining
+INFO:__main__:10 diff iterations: 274.101018906 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 377.841949 ms used, 122.158051 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 378.166914 ms used, 121.833086 ms remaining
+INFO:proj.ants:== TURN 22 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.222942 ms used, 496.777058 ms remaining
+INFO:__main__:= TURN 22 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 79.536915 ms used, 420.463085 ms remaining
+INFO:__main__:16 diff iterations: 306.987047195 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 386.986971 ms used, 113.013029 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 387.210846 ms used, 112.789154 ms remaining
+INFO:proj.ants:== TURN 23 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.534151 ms used, 497.465849 ms remaining
+INFO:__main__:= TURN 23 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.722052 ms used, 425.277948 ms remaining
+INFO:__main__:15 diff iterations: 311.141967773 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 386.330128 ms used, 113.669872 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 386.552095 ms used, 113.447905 ms remaining
+INFO:proj.ants:== TURN 24 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 1.959085 ms used, 498.040915 ms remaining
+INFO:__main__:= TURN 24 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 71.082115 ms used, 428.917885 ms remaining
+INFO:__main__:16 diff iterations: 315.470218658 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.110949 ms used, 112.889051 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 387.336969 ms used, 112.663031 ms remaining
+INFO:proj.ants:== TURN 25 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.856016 ms used, 497.143984 ms remaining
+INFO:__main__:= TURN 25 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.219009 ms used, 422.780991 ms remaining
+INFO:__main__:14 diff iterations: 293.785810471 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 371.499062 ms used, 128.500938 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 371.730089 ms used, 128.269911 ms remaining
+INFO:proj.ants:== TURN 26 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.385139 ms used, 497.614861 ms remaining
+INFO:__main__:= TURN 26 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.385975 ms used, 423.614025 ms remaining
+INFO:__main__:15 diff iterations: 307.391881943 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 384.438038 ms used, 115.561962 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 385.820150 ms used, 114.179850 ms remaining
+INFO:proj.ants:== TURN 27 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.166199 ms used, 496.833801 ms remaining
+INFO:__main__:= TURN 27 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 98.484039 ms used, 401.515961 ms remaining
+INFO:__main__:10 diff iterations: 276.649951935 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.830173 ms used, 124.169827 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 376.160145 ms used, 123.839855 ms remaining
+INFO:proj.ants:== TURN 28 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.809929 ms used, 496.190071 ms remaining
+INFO:__main__:= TURN 28 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 101.052999 ms used, 398.947001 ms remaining
+INFO:__main__:10 diff iterations: 267.118930817 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 368.790865 ms used, 131.209135 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 369.116068 ms used, 130.883932 ms remaining
+INFO:proj.ants:== TURN 29 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.179955 ms used, 495.820045 ms remaining
+INFO:__main__:= TURN 29 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 84.702969 ms used, 415.297031 ms remaining
+INFO:__main__:14 diff iterations: 296.243190765 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.487131 ms used, 118.512869 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 381.721020 ms used, 118.278980 ms remaining
+INFO:proj.ants:== TURN 30 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.848864 ms used, 497.151136 ms remaining
+INFO:__main__:= TURN 30 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 96.905947 ms used, 403.094053 ms remaining
+INFO:__main__:10 diff iterations: 278.315067291 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.907898 ms used, 124.092102 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 376.240969 ms used, 123.759031 ms remaining
+INFO:proj.ants:== TURN 31 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.415129 ms used, 493.584871 ms remaining
+INFO:__main__:= TURN 31 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 82.397938 ms used, 417.602062 ms remaining
+INFO:__main__:14 diff iterations: 299.371004105 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.358074 ms used, 117.641926 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 382.588148 ms used, 117.411852 ms remaining
+INFO:proj.ants:== TURN 32 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.869865 ms used, 494.130135 ms remaining
+INFO:__main__:= TURN 32 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 86.915970 ms used, 413.084030 ms remaining
+INFO:__main__:12 diff iterations: 284.133911133 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 371.532917 ms used, 128.467083 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 371.754885 ms used, 128.245115 ms remaining
+INFO:proj.ants:== TURN 33 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.726006 ms used, 496.273994 ms remaining
+INFO:__main__:= TURN 33 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 83.031893 ms used, 416.968107 ms remaining
+INFO:__main__:12 diff iterations: 285.928964615 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 369.624853 ms used, 130.375147 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 369.951963 ms used, 130.048037 ms remaining
+INFO:proj.ants:== TURN 34 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.835056 ms used, 494.164944 ms remaining
+INFO:__main__:= TURN 34 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 105.048895 ms used, 394.951105 ms remaining
+INFO:__main__:10 diff iterations: 269.970178604 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.571966 ms used, 124.428034 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 375.897884 ms used, 124.102116 ms remaining
+INFO:proj.ants:== TURN 35 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.251003 ms used, 495.748997 ms remaining
+INFO:__main__:= TURN 35 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.227116 ms used, 422.772884 ms remaining
+INFO:__main__:16 diff iterations: 303.628921509 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.301165 ms used, 118.698835 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 381.520987 ms used, 118.479013 ms remaining
+INFO:proj.ants:== TURN 36 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.009890 ms used, 494.990110 ms remaining
+INFO:__main__:= TURN 36 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.386856 ms used, 422.613144 ms remaining
+INFO:__main__:16 diff iterations: 303.325891495 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.187916 ms used, 118.812084 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 381.407976 ms used, 118.592024 ms remaining
+INFO:proj.ants:== TURN 37 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.815029 ms used, 494.184971 ms remaining
+INFO:__main__:= TURN 37 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.124046 ms used, 421.875954 ms remaining
+INFO:__main__:16 diff iterations: 303.814172745 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.400036 ms used, 117.599964 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 382.622957 ms used, 117.377043 ms remaining
+INFO:proj.ants:== TURN 38 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.269932 ms used, 493.730068 ms remaining
+INFO:__main__:= TURN 38 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 94.527960 ms used, 405.472040 ms remaining
+INFO:__main__:10 diff iterations: 280.488014221 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.694990 ms used, 124.305010 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 376.031160 ms used, 123.968840 ms remaining
+INFO:proj.ants:== TURN 39 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.551981 ms used, 493.448019 ms remaining
+INFO:__main__:= TURN 39 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 87.519169 ms used, 412.480831 ms remaining
+INFO:__main__:10 diff iterations: 278.110027313 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 366.358042 ms used, 133.641958 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 367.177010 ms used, 132.822990 ms remaining
+INFO:proj.ants:== TURN 40 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.867958 ms used, 494.132042 ms remaining
+INFO:__main__:= TURN 40 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 81.049919 ms used, 418.950081 ms remaining
+INFO:__main__:11 diff iterations: 303.959846497 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.952950 ms used, 114.047050 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 386.301041 ms used, 113.698959 ms remaining
+INFO:proj.ants:== TURN 41 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.970001 ms used, 494.029999 ms remaining
+INFO:__main__:= TURN 41 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 79.028130 ms used, 420.971870 ms remaining
+INFO:__main__:14 diff iterations: 293.824911118 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.634100 ms used, 126.365900 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 373.877048 ms used, 126.122952 ms remaining
+INFO:proj.ants:== TURN 42 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.146193 ms used, 493.853807 ms remaining
+INFO:__main__:= TURN 42 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 81.676006 ms used, 418.323994 ms remaining
+INFO:__main__:14 diff iterations: 296.179056168 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.398180 ms used, 121.601820 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 378.619194 ms used, 121.380806 ms remaining
+INFO:proj.ants:== TURN 43 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.681017 ms used, 497.318983 ms remaining
+INFO:__main__:= TURN 43 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.218035 ms used, 425.781965 ms remaining
+INFO:__main__:14 diff iterations: 305.459976196 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.156994 ms used, 119.843006 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 390.261173248 ms
+DEBUG:proj.ants:FINAL: 380.383968 ms used, 119.616032 ms remaining
+INFO:proj.ants:== TURN 44 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.157854 ms used, 496.842146 ms remaining
+INFO:__main__:= TURN 44 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 79.138994 ms used, 420.861006 ms remaining
+INFO:__main__:15 diff iterations: 312.950134277 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 392.711878 ms used, 107.288122 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 392.942905 ms used, 107.057095 ms remaining
+INFO:proj.ants:== TURN 45 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.536940 ms used, 496.463060 ms remaining
+INFO:__main__:= TURN 45 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 75.493097 ms used, 424.506903 ms remaining
+INFO:__main__:15 diff iterations: 301.197052002 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 377.259016 ms used, 122.740984 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 377.485991 ms used, 122.514009 ms remaining
+INFO:proj.ants:== TURN 46 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.101038 ms used, 495.898962 ms remaining
+INFO:__main__:= TURN 46 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 104.336977 ms used, 395.663023 ms remaining
+INFO:__main__:10 diff iterations: 275.696992874 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.652905 ms used, 119.347095 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 380.979061 ms used, 119.020939 ms remaining
+INFO:proj.ants:== TURN 47 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.723000 ms used, 494.277000 ms remaining
+INFO:__main__:= TURN 47 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.731920 ms used, 423.268080 ms remaining
+INFO:__main__:14 diff iterations: 314.36085701 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 391.867876 ms used, 108.132124 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 392.095804 ms used, 107.904196 ms remaining
+INFO:proj.ants:== TURN 48 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 9.903908 ms used, 490.096092 ms remaining
+INFO:__main__:= TURN 48 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 95.513105 ms used, 404.486895 ms remaining
+INFO:__main__:9 diff iterations: 282.264947891 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.408909 ms used, 121.591091 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 378.786087 ms used, 121.213913 ms remaining
+INFO:proj.ants:== TURN 49 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.485151 ms used, 492.514849 ms remaining
+INFO:__main__:= TURN 49 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.923059 ms used, 422.076941 ms remaining
+INFO:__main__:15 diff iterations: 303.201913834 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.598949 ms used, 118.401051 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 381.819010 ms used, 118.180990 ms remaining
+INFO:proj.ants:== TURN 50 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.858038 ms used, 492.141962 ms remaining
+INFO:__main__:= TURN 50 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 103.013039 ms used, 396.986961 ms remaining
+INFO:__main__:10 diff iterations: 277.045965195 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.749941 ms used, 119.250059 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 381.092072 ms used, 118.907928 ms remaining
+INFO:proj.ants:== TURN 51 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.110886 ms used, 496.889114 ms remaining
+INFO:__main__:= TURN 51 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 80.506802 ms used, 419.493198 ms remaining
+INFO:__main__:14 diff iterations: 295.721054077 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 376.781940 ms used, 123.218060 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 377.008915 ms used, 122.991085 ms remaining
+INFO:proj.ants:== TURN 52 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.742933 ms used, 496.257067 ms remaining
+INFO:__main__:= TURN 52 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 73.293924 ms used, 426.706076 ms remaining
+INFO:__main__:15 diff iterations: 304.318904877 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.169060 ms used, 121.830940 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 378.983021 ms used, 121.016979 ms remaining
+INFO:proj.ants:== TURN 53 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.182028 ms used, 494.817972 ms remaining
+INFO:__main__:= TURN 53 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.032089 ms used, 422.967911 ms remaining
+INFO:__main__:16 diff iterations: 308.921813965 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 386.433125 ms used, 113.566875 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 386.650085 ms used, 113.349915 ms remaining
+INFO:proj.ants:== TURN 54 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.925894 ms used, 494.074106 ms remaining
+INFO:__main__:= TURN 54 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.466892 ms used, 421.533108 ms remaining
+INFO:__main__:16 diff iterations: 299.993991852 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 379.008055 ms used, 120.991945 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 379.236937 ms used, 120.763063 ms remaining
+INFO:proj.ants:== TURN 55 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.229877 ms used, 493.770123 ms remaining
+INFO:__main__:= TURN 55 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 80.905914 ms used, 419.094086 ms remaining
+INFO:__main__:14 diff iterations: 286.751031876 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 368.241072 ms used, 131.758928 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 368.459940 ms used, 131.540060 ms remaining
+INFO:proj.ants:== TURN 56 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.577015 ms used, 493.422985 ms remaining
+INFO:__main__:= TURN 56 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.629877 ms used, 423.370123 ms remaining
+INFO:__main__:14 diff iterations: 298.441886902 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.692844 ms used, 124.307156 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 375.977039 ms used, 124.022961 ms remaining
+INFO:proj.ants:== TURN 57 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.424044 ms used, 491.575956 ms remaining
+INFO:__main__:= TURN 57 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 96.635103 ms used, 403.364897 ms remaining
+INFO:__main__:10 diff iterations: 280.909061432 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.273964 ms used, 121.726036 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 378.600121 ms used, 121.399879 ms remaining
+INFO:proj.ants:== TURN 58 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.562160 ms used, 492.437840 ms remaining
+INFO:__main__:= TURN 58 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 84.072113 ms used, 415.927887 ms remaining
+INFO:__main__:15 diff iterations: 295.314073563 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 379.981995 ms used, 120.018005 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 380.210161 ms used, 119.789839 ms remaining
+INFO:proj.ants:== TURN 59 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.052950 ms used, 496.947050 ms remaining
+INFO:__main__:= TURN 59 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 82.726955 ms used, 417.273045 ms remaining
+INFO:__main__:11 diff iterations: 296.571016312 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 379.963875 ms used, 120.036125 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 380.300999 ms used, 119.699001 ms remaining
+INFO:proj.ants:== TURN 60 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.114939 ms used, 496.885061 ms remaining
+INFO:__main__:= TURN 60 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 92.586040 ms used, 407.413960 ms remaining
+INFO:__main__:10 diff iterations: 273.416996002 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 366.640091 ms used, 133.359909 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 366.964102 ms used, 133.035898 ms remaining
+INFO:proj.ants:== TURN 61 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.192207 ms used, 493.807793 ms remaining
+INFO:__main__:= TURN 61 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 89.040041 ms used, 410.959959 ms remaining
+INFO:__main__:11 diff iterations: 270.508050919 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 360.298157 ms used, 139.701843 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 360.697985 ms used, 139.302015 ms remaining
+INFO:proj.ants:== TURN 62 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.627943 ms used, 495.372057 ms remaining
+INFO:__main__:= TURN 62 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 98.834038 ms used, 401.165962 ms remaining
+INFO:__main__:11 diff iterations: 279.23989296 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.831863 ms used, 121.168137 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 379.158020 ms used, 120.841980 ms remaining
+INFO:proj.ants:== TURN 63 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.701853 ms used, 495.298147 ms remaining
+INFO:__main__:= TURN 63 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 94.602823 ms used, 405.397177 ms remaining
+INFO:__main__:12 diff iterations: 285.317897797 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.501986 ms used, 119.498014 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 380.736828 ms used, 119.263172 ms remaining
+INFO:proj.ants:== TURN 64 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.557920 ms used, 496.442080 ms remaining
+INFO:__main__:= TURN 64 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.359894 ms used, 425.640106 ms remaining
+INFO:__main__:15 diff iterations: 306.344985962 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.303072 ms used, 118.696928 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 381.563902 ms used, 118.436098 ms remaining
+INFO:proj.ants:== TURN 65 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.466845 ms used, 496.533155 ms remaining
+INFO:__main__:= TURN 65 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.749895 ms used, 421.250105 ms remaining
+INFO:__main__:13 diff iterations: 308.11715126 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.641907 ms used, 112.358093 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 388.006926 ms used, 111.993074 ms remaining
+INFO:proj.ants:== TURN 66 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.432035 ms used, 496.567965 ms remaining
+INFO:__main__:= TURN 66 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.121185 ms used, 421.878815 ms remaining
+INFO:__main__:15 diff iterations: 308.471918106 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.246132 ms used, 112.753868 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 387.471199 ms used, 112.528801 ms remaining
+INFO:proj.ants:== TURN 67 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.113031 ms used, 496.886969 ms remaining
+INFO:__main__:= TURN 67 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.652050 ms used, 423.347950 ms remaining
+INFO:__main__:15 diff iterations: 311.605215073 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 389.086962 ms used, 110.913038 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 389.322996 ms used, 110.677004 ms remaining
+INFO:proj.ants:== TURN 68 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.559900 ms used, 497.440100 ms remaining
+INFO:__main__:= TURN 68 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 71.635008 ms used, 428.364992 ms remaining
+INFO:__main__:15 diff iterations: 310.411930084 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.685900 ms used, 117.314100 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 382.912874 ms used, 117.087126 ms remaining
+INFO:proj.ants:== TURN 69 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.392935 ms used, 496.607065 ms remaining
+INFO:__main__:= TURN 69 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.620911 ms used, 421.379089 ms remaining
+INFO:__main__:11 diff iterations: 296.868085861 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 376.219988 ms used, 123.780012 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 376.544952 ms used, 123.455048 ms remaining
+INFO:proj.ants:== TURN 70 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.055977 ms used, 495.944023 ms remaining
+INFO:__main__:= TURN 70 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 93.521833 ms used, 406.478167 ms remaining
+INFO:__main__:10 diff iterations: 275.31504631 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 369.738817 ms used, 130.261183 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 370.121956 ms used, 129.878044 ms remaining
+INFO:proj.ants:== TURN 71 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.520012 ms used, 496.479988 ms remaining
+INFO:__main__:= TURN 71 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 83.956957 ms used, 416.043043 ms remaining
+INFO:__main__:11 diff iterations: 296.08798027 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.816936 ms used, 119.183064 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 381.145000 ms used, 118.855000 ms remaining
+INFO:proj.ants:== TURN 72 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.568172 ms used, 496.431828 ms remaining
+INFO:__main__:= TURN 72 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.942133 ms used, 422.057867 ms remaining
+INFO:__main__:15 diff iterations: 307.089090347 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.766029 ms used, 114.233971 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 385.991096 ms used, 114.008904 ms remaining
+INFO:proj.ants:== TURN 73 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.108025 ms used, 496.891975 ms remaining
+INFO:__main__:= TURN 73 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.013948 ms used, 425.986052 ms remaining
+INFO:__main__:15 diff iterations: 306.895017624 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.520987 ms used, 118.479013 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 381.747007 ms used, 118.252993 ms remaining
+INFO:proj.ants:== TURN 74 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.722025 ms used, 497.277975 ms remaining
+INFO:__main__:= TURN 74 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 83.178043 ms used, 416.821957 ms remaining
+INFO:__main__:10 diff iterations: 276.231050491 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 360.191107 ms used, 139.808893 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 360.521078 ms used, 139.478922 ms remaining
+INFO:proj.ants:== TURN 75 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.784107 ms used, 495.215893 ms remaining
+INFO:__main__:= TURN 75 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 86.657047 ms used, 413.342953 ms remaining
+INFO:__main__:12 diff iterations: 297.867059708 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.298014 ms used, 114.701986 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 385.630131 ms used, 114.369869 ms remaining
+INFO:proj.ants:== TURN 76 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 2.475977 ms used, 497.524023 ms remaining
+INFO:__main__:= TURN 76 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 88.419914 ms used, 411.580086 ms remaining
+INFO:__main__:10 diff iterations: 277.245998383 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 366.386890 ms used, 133.613110 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 366.720915 ms used, 133.279085 ms remaining
+INFO:proj.ants:== TURN 77 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.979921 ms used, 496.020079 ms remaining
+INFO:__main__:= TURN 77 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.778028 ms used, 421.221972 ms remaining
+INFO:__main__:15 diff iterations: 308.309078217 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.794018 ms used, 112.205982 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 388.017893 ms used, 111.982107 ms remaining
+INFO:proj.ants:== TURN 78 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.832911 ms used, 494.167089 ms remaining
+INFO:__main__:= TURN 78 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 91.051817 ms used, 408.948183 ms remaining
+INFO:__main__:10 diff iterations: 287.759065628 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.205870 ms used, 119.794130 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 380.546808 ms used, 119.453192 ms remaining
+INFO:proj.ants:== TURN 79 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.337000 ms used, 494.663000 ms remaining
+INFO:__main__:= TURN 79 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 101.760149 ms used, 398.239851 ms remaining
+INFO:__main__:9 diff iterations: 259.495019913 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 362.057209 ms used, 137.942791 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 362.384081 ms used, 137.615919 ms remaining
+INFO:proj.ants:== TURN 80 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.213882 ms used, 496.786118 ms remaining
+INFO:__main__:= TURN 80 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 94.007969 ms used, 405.992031 ms remaining
+INFO:__main__:11 diff iterations: 284.031152725 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.908873 ms used, 121.091127 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 379.132986 ms used, 120.867014 ms remaining
+INFO:proj.ants:== TURN 81 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.628824 ms used, 494.371176 ms remaining
+INFO:__main__:= TURN 81 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 88.196993 ms used, 411.803007 ms remaining
+INFO:__main__:11 diff iterations: 286.028146744 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 374.868870 ms used, 125.131130 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 375.089884 ms used, 124.910116 ms remaining
+INFO:proj.ants:== TURN 82 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.813910 ms used, 495.186090 ms remaining
+INFO:__main__:= TURN 82 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 87.759972 ms used, 412.240028 ms remaining
+INFO:__main__:11 diff iterations: 285.723924637 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 374.558926 ms used, 125.441074 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 374.892950 ms used, 125.107050 ms remaining
+INFO:proj.ants:== TURN 83 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.741907 ms used, 495.258093 ms remaining
+INFO:__main__:= TURN 83 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 86.974859 ms used, 413.025141 ms remaining
+INFO:__main__:10 diff iterations: 274.836063385 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 362.666845 ms used, 137.333155 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 363.001823 ms used, 136.998177 ms remaining
+INFO:proj.ants:== TURN 84 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.947901 ms used, 495.052099 ms remaining
+INFO:__main__:= TURN 84 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 98.471880 ms used, 401.528120 ms remaining
+INFO:__main__:10 diff iterations: 277.93097496 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 377.213955 ms used, 122.786045 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 377.539873 ms used, 122.460127 ms remaining
+INFO:proj.ants:== TURN 85 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.461050 ms used, 495.538950 ms remaining
+INFO:__main__:= TURN 85 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.240944 ms used, 422.759056 ms remaining
+INFO:__main__:15 diff iterations: 305.272102356 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 383.186102 ms used, 116.813898 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 383.409977 ms used, 116.590023 ms remaining
+INFO:proj.ants:== TURN 86 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.204988 ms used, 495.795012 ms remaining
+INFO:__main__:= TURN 86 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 84.302902 ms used, 415.697098 ms remaining
+INFO:__main__:11 diff iterations: 291.059017181 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 376.269817 ms used, 123.730183 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 376.603842 ms used, 123.396158 ms remaining
+INFO:proj.ants:== TURN 87 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.507137 ms used, 496.492863 ms remaining
+INFO:__main__:= TURN 87 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 90.747118 ms used, 409.252882 ms remaining
+INFO:__main__:12 diff iterations: 293.731927872 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.303020 ms used, 114.696980 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 385.638952 ms used, 114.361048 ms remaining
+INFO:proj.ants:== TURN 88 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.472971 ms used, 495.527029 ms remaining
+INFO:__main__:= TURN 88 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 91.501951 ms used, 408.498049 ms remaining
+INFO:__main__:10 diff iterations: 276.984930038 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 369.551897 ms used, 130.448103 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 369.886875 ms used, 130.113125 ms remaining
+INFO:proj.ants:== TURN 89 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.359961 ms used, 495.640039 ms remaining
+INFO:__main__:= TURN 89 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.420069 ms used, 423.579931 ms remaining
+INFO:__main__:12 diff iterations: 311.25497818 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 388.606071 ms used, 111.393929 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 388.937950 ms used, 111.062050 ms remaining
+INFO:proj.ants:== TURN 90 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.988049 ms used, 493.011951 ms remaining
+INFO:__main__:= TURN 90 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 96.052170 ms used, 403.947830 ms remaining
+INFO:__main__:11 diff iterations: 276.815891266 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.584032 ms used, 126.415968 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 373.804092 ms used, 126.195908 ms remaining
+INFO:proj.ants:== TURN 91 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.764982 ms used, 491.235018 ms remaining
+INFO:__main__:= TURN 91 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 90.146065 ms used, 409.853935 ms remaining
+INFO:__main__:12 diff iterations: 287.126779556 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.348112 ms used, 121.651888 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 378.777027 ms used, 121.222973 ms remaining
+INFO:proj.ants:== TURN 92 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.241964 ms used, 492.758036 ms remaining
+INFO:__main__:= TURN 92 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 90.670824 ms used, 409.329176 ms remaining
+INFO:__main__:10 diff iterations: 278.805971146 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 370.510817 ms used, 129.489183 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 370.846987 ms used, 129.153013 ms remaining
+INFO:proj.ants:== TURN 93 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.235931 ms used, 491.764069 ms remaining
+INFO:__main__:= TURN 93 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 94.415903 ms used, 405.584097 ms remaining
+INFO:__main__:10 diff iterations: 270.18904686 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 365.486860 ms used, 134.513140 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 365.866899 ms used, 134.133101 ms remaining
+INFO:proj.ants:== TURN 94 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 12.480021 ms used, 487.519979 ms remaining
+INFO:__main__:= TURN 94 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 86.152077 ms used, 413.847923 ms remaining
+INFO:__main__:14 diff iterations: 292.182922363 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 379.099131 ms used, 120.900869 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 379.335165 ms used, 120.664835 ms remaining
+INFO:proj.ants:== TURN 95 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.432980 ms used, 486.567020 ms remaining
+INFO:__main__:= TURN 95 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 80.187082 ms used, 419.812918 ms remaining
+INFO:__main__:16 diff iterations: 297.64509201 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.413916 ms used, 121.586084 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 378.633022 ms used, 121.366978 ms remaining
+INFO:proj.ants:== TURN 96 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.190870 ms used, 491.809130 ms remaining
+INFO:__main__:= TURN 96 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 89.962959 ms used, 410.037041 ms remaining
+INFO:__main__:11 diff iterations: 277.756214142 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 368.479013 ms used, 131.520987 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 368.804932 ms used, 131.195068 ms remaining
+INFO:proj.ants:== TURN 97 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.765915 ms used, 494.234085 ms remaining
+INFO:__main__:= TURN 97 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 72.201014 ms used, 427.798986 ms remaining
+INFO:__main__:17 diff iterations: 308.397054672 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.217003 ms used, 118.782997 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 381.435871 ms used, 118.564129 ms remaining
+INFO:proj.ants:== TURN 98 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.764868 ms used, 496.235132 ms remaining
+INFO:__main__:= TURN 98 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 82.609892 ms used, 417.390108 ms remaining
+INFO:__main__:12 diff iterations: 301.905155182 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.326862 ms used, 114.673138 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 385.658026 ms used, 114.341974 ms remaining
+INFO:proj.ants:== TURN 99 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.010937 ms used, 492.989063 ms remaining
+INFO:__main__:= TURN 99 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.888945 ms used, 425.111055 ms remaining
+INFO:__main__:17 diff iterations: 309.034109116 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 384.531975 ms used, 115.468025 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 384.752035 ms used, 115.247965 ms remaining
+INFO:proj.ants:== TURN 100 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.071060 ms used, 486.928940 ms remaining
+INFO:__main__:= TURN 100 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 80.565929 ms used, 419.434071 ms remaining
+INFO:__main__:16 diff iterations: 293.220996857 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 374.399900 ms used, 125.600100 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 374.619007 ms used, 125.380993 ms remaining
+INFO:proj.ants:== TURN 101 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.827023 ms used, 495.172977 ms remaining
+INFO:__main__:= TURN 101 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 84.759951 ms used, 415.240049 ms remaining
+INFO:__main__:11 diff iterations: 285.915851593 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 371.551037 ms used, 128.448963 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 371.780157 ms used, 128.219843 ms remaining
+INFO:proj.ants:== TURN 102 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 10.449171 ms used, 489.550829 ms remaining
+INFO:__main__:= TURN 102 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 93.245983 ms used, 406.754017 ms remaining
+INFO:__main__:10 diff iterations: 267.154932022 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 361.155987 ms used, 138.844013 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 361.380100 ms used, 138.619900 ms remaining
+INFO:proj.ants:== TURN 103 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.567209 ms used, 486.432791 ms remaining
+INFO:__main__:= TURN 103 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 80.066204 ms used, 419.933796 ms remaining
+INFO:__main__:15 diff iterations: 302.267789841 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 383.138180 ms used, 116.861820 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 383.359194 ms used, 116.640806 ms remaining
+INFO:proj.ants:== TURN 104 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.344889 ms used, 491.655111 ms remaining
+INFO:__main__:= TURN 104 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 93.375921 ms used, 406.624079 ms remaining
+INFO:__main__:11 diff iterations: 283.753156662 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.014803 ms used, 121.985197 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 378.340960 ms used, 121.659040 ms remaining
+INFO:proj.ants:== TURN 105 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.275011 ms used, 494.724989 ms remaining
+INFO:__main__:= TURN 105 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 87.069988 ms used, 412.930012 ms remaining
+INFO:__main__:10 diff iterations: 272.343873978 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 360.326052 ms used, 139.673948 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 360.674143 ms used, 139.325857 ms remaining
+INFO:proj.ants:== TURN 106 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.786968 ms used, 495.213032 ms remaining
+INFO:__main__:= TURN 106 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.894854 ms used, 421.105146 ms remaining
+INFO:__main__:12 diff iterations: 306.879997253 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.171984 ms used, 112.828016 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 387.874842 ms used, 112.125158 ms remaining
+INFO:proj.ants:== TURN 107 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.790068 ms used, 495.209932 ms remaining
+INFO:__main__:= TURN 107 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 99.494219 ms used, 400.505781 ms remaining
+INFO:__main__:10 diff iterations: 271.636962891 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 372.124195 ms used, 127.875805 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 372.455120 ms used, 127.544880 ms remaining
+INFO:proj.ants:== TURN 108 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.833004 ms used, 492.166996 ms remaining
+INFO:__main__:= TURN 108 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 83.393097 ms used, 416.606903 ms remaining
+INFO:__main__:11 diff iterations: 282.801151276 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 367.027998 ms used, 132.972002 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 367.388010 ms used, 132.611990 ms remaining
+INFO:proj.ants:== TURN 109 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.477833 ms used, 493.522167 ms remaining
+INFO:__main__:= TURN 109 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 81.190825 ms used, 418.809175 ms remaining
+INFO:__main__:13 diff iterations: 310.279846191 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 392.364025 ms used, 107.635975 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 392.690897 ms used, 107.309103 ms remaining
+INFO:proj.ants:== TURN 110 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.786989 ms used, 492.213011 ms remaining
+INFO:__main__:= TURN 110 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 95.908165 ms used, 404.091835 ms remaining
+INFO:__main__:12 diff iterations: 284.376859665 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.227016 ms used, 118.772984 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 381.553173 ms used, 118.446827 ms remaining
+INFO:proj.ants:== TURN 111 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 12.779951 ms used, 487.220049 ms remaining
+INFO:__main__:= TURN 111 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 80.923080 ms used, 419.076920 ms remaining
+INFO:__main__:14 diff iterations: 308.356046677 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 390.135050 ms used, 109.864950 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 390.470028 ms used, 109.529972 ms remaining
+INFO:proj.ants:== TURN 112 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.772186 ms used, 495.227814 ms remaining
+INFO:__main__:= TURN 112 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 82.082033 ms used, 417.917967 ms remaining
+INFO:__main__:12 diff iterations: 289.433956146 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 372.205973 ms used, 127.794027 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 372.452974 ms used, 127.547026 ms remaining
+INFO:proj.ants:== TURN 113 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.683899 ms used, 494.316101 ms remaining
+INFO:__main__:= TURN 113 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.290991 ms used, 425.709009 ms remaining
+INFO:__main__:15 diff iterations: 300.338983536 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.468016 ms used, 124.531984 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 375.707865 ms used, 124.292135 ms remaining
+INFO:proj.ants:== TURN 114 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.159140 ms used, 494.840860 ms remaining
+INFO:__main__:= TURN 114 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 95.880032 ms used, 404.119968 ms remaining
+INFO:__main__:10 diff iterations: 277.12893486 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.980999 ms used, 126.019001 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 374.310970 ms used, 125.689030 ms remaining
+INFO:proj.ants:== TURN 115 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.306959 ms used, 494.693041 ms remaining
+INFO:__main__:= TURN 115 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 73.310852 ms used, 426.689148 ms remaining
+INFO:__main__:15 diff iterations: 298.007965088 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 372.120857 ms used, 127.879143 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 372.342825 ms used, 127.657175 ms remaining
+INFO:proj.ants:== TURN 116 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.678011 ms used, 495.321989 ms remaining
+INFO:__main__:= TURN 116 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 72.057962 ms used, 427.942038 ms remaining
+INFO:__main__:16 diff iterations: 316.735982895 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 389.569044 ms used, 110.430956 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 389.791965 ms used, 110.208035 ms remaining
+INFO:proj.ants:== TURN 117 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.877899 ms used, 493.122101 ms remaining
+INFO:__main__:= TURN 117 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.642897 ms used, 425.357103 ms remaining
+INFO:__main__:15 diff iterations: 297.889947891 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.363972 ms used, 126.636028 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 373.596907 ms used, 126.403093 ms remaining
+INFO:proj.ants:== TURN 118 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 10.565042 ms used, 489.434958 ms remaining
+INFO:__main__:= TURN 118 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 94.725847 ms used, 405.274153 ms remaining
+INFO:__main__:11 diff iterations: 287.468910217 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 384.006977 ms used, 115.993023 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 384.414911 ms used, 115.585089 ms remaining
+INFO:proj.ants:== TURN 119 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.752159 ms used, 495.247841 ms remaining
+INFO:__main__:= TURN 119 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 73.130131 ms used, 426.869869 ms remaining
+INFO:__main__:13 diff iterations: 299.182891846 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.256207 ms used, 126.743793 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 373.587132 ms used, 126.412868 ms remaining
+INFO:proj.ants:== TURN 120 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 4.987001 ms used, 495.012999 ms remaining
+INFO:__main__:= TURN 120 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 75.282812 ms used, 424.717188 ms remaining
+INFO:__main__:12 diff iterations: 304.313182831 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.532980 ms used, 119.467020 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 380.761862 ms used, 119.238138 ms remaining
+INFO:proj.ants:== TURN 121 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.933928 ms used, 493.066072 ms remaining
+INFO:__main__:= TURN 121 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 85.357904 ms used, 414.642096 ms remaining
+INFO:__main__:12 diff iterations: 290.361881256 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 377.415895 ms used, 122.584105 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 377.780914 ms used, 122.219086 ms remaining
+INFO:proj.ants:== TURN 122 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 9.511948 ms used, 490.488052 ms remaining
+INFO:__main__:= TURN 122 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.830864 ms used, 423.169136 ms remaining
+INFO:__main__:11 diff iterations: 293.513059616 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 372.030020 ms used, 127.969980 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 372.505903 ms used, 127.494097 ms remaining
+INFO:proj.ants:== TURN 123 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.553007 ms used, 494.446993 ms remaining
+INFO:__main__:= TURN 123 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.382969 ms used, 421.617031 ms remaining
+INFO:__main__:12 diff iterations: 305.690050125 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.035992 ms used, 114.964008 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 385.361195 ms used, 114.638805 ms remaining
+INFO:proj.ants:== TURN 124 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.263184 ms used, 492.736816 ms remaining
+INFO:__main__:= TURN 124 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 89.559078 ms used, 410.440922 ms remaining
+INFO:__main__:11 diff iterations: 282.990217209 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.547077 ms used, 126.452923 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 373.879194 ms used, 126.120806 ms remaining
+INFO:proj.ants:== TURN 125 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.665873 ms used, 492.334127 ms remaining
+INFO:__main__:= TURN 125 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 81.538916 ms used, 418.461084 ms remaining
+INFO:__main__:11 diff iterations: 283.973932266 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 366.453886 ms used, 133.546114 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 366.808891 ms used, 133.191109 ms remaining
+INFO:proj.ants:== TURN 126 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.973982 ms used, 493.026018 ms remaining
+INFO:__main__:= TURN 126 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 93.782187 ms used, 406.217813 ms remaining
+INFO:__main__:10 diff iterations: 266.597032547 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 361.358166 ms used, 138.641834 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 361.689091 ms used, 138.310909 ms remaining
+INFO:proj.ants:== TURN 127 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.385897 ms used, 491.614103 ms remaining
+INFO:__main__:= TURN 127 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.498913 ms used, 422.501087 ms remaining
+INFO:__main__:15 diff iterations: 300.229072571 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.716946 ms used, 121.283054 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 392.870903015 ms
+DEBUG:proj.ants:FINAL: 378.962040 ms used, 121.037960 ms remaining
+INFO:proj.ants:== TURN 128 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.955002 ms used, 491.044998 ms remaining
+INFO:__main__:= TURN 128 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 73.799849 ms used, 426.200151 ms remaining
+INFO:__main__:15 diff iterations: 325.258970261 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 400.128841 ms used, 99.871159 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 400.357008 ms used, 99.642992 ms remaining
+INFO:proj.ants:== TURN 129 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.782024 ms used, 486.217976 ms remaining
+INFO:__main__:= TURN 129 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 85.555077 ms used, 414.444923 ms remaining
+INFO:__main__:11 diff iterations: 281.871080399 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 368.431091 ms used, 131.568909 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 368.758202 ms used, 131.241798 ms remaining
+INFO:proj.ants:== TURN 130 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.599966 ms used, 484.400034 ms remaining
+INFO:__main__:= TURN 130 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 85.478067 ms used, 414.521933 ms remaining
+INFO:__main__:10 diff iterations: 274.027109146 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 361.377001 ms used, 138.622999 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 361.829996 ms used, 138.170004 ms remaining
+INFO:proj.ants:== TURN 131 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.967037 ms used, 486.032963 ms remaining
+INFO:__main__:= TURN 131 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 98.600864 ms used, 401.399136 ms remaining
+INFO:__main__:11 diff iterations: 289.525985718 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 389.111042 ms used, 110.888958 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 389.445066 ms used, 110.554934 ms remaining
+INFO:proj.ants:== TURN 132 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.289089 ms used, 481.710911 ms remaining
+INFO:__main__:= TURN 132 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 94.796896 ms used, 405.203104 ms remaining
+INFO:__main__:11 diff iterations: 277.682065964 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.368025 ms used, 126.631975 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 373.589993 ms used, 126.410007 ms remaining
+INFO:proj.ants:== TURN 133 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.450861 ms used, 486.549139 ms remaining
+INFO:__main__:= TURN 133 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 79.879999 ms used, 420.120001 ms remaining
+INFO:__main__:12 diff iterations: 281.667947769 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 362.509012 ms used, 137.490988 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 362.838984 ms used, 137.161016 ms remaining
+INFO:proj.ants:== TURN 134 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.433073 ms used, 484.566927 ms remaining
+INFO:__main__:= TURN 134 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 89.494944 ms used, 410.505056 ms remaining
+INFO:__main__:12 diff iterations: 301.320075989 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 391.799927 ms used, 108.200073 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 392.138958 ms used, 107.861042 ms remaining
+INFO:proj.ants:== TURN 135 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 16.433001 ms used, 483.566999 ms remaining
+INFO:__main__:= TURN 135 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 83.575964 ms used, 416.424036 ms remaining
+INFO:__main__:13 diff iterations: 298.273086548 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.783890 ms used, 117.216110 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 383.115053 ms used, 116.884947 ms remaining
+INFO:proj.ants:== TURN 136 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.291836 ms used, 486.708164 ms remaining
+INFO:__main__:= TURN 136 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.732014 ms used, 421.267986 ms remaining
+INFO:__main__:16 diff iterations: 311.138153076 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 390.718937 ms used, 109.281063 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 390.944004 ms used, 109.055996 ms remaining
+INFO:proj.ants:== TURN 137 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.323971 ms used, 482.676029 ms remaining
+INFO:__main__:= TURN 137 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 80.471992 ms used, 419.528008 ms remaining
+INFO:__main__:15 diff iterations: 293.943166733 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.356913 ms used, 124.643087 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 375.581026 ms used, 124.418974 ms remaining
+INFO:proj.ants:== TURN 138 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.419079 ms used, 485.580921 ms remaining
+INFO:__main__:= TURN 138 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 79.796076 ms used, 420.203924 ms remaining
+INFO:__main__:15 diff iterations: 294.857978821 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.535965 ms used, 124.464035 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 375.763893 ms used, 124.236107 ms remaining
+INFO:proj.ants:== TURN 139 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.014887 ms used, 484.985113 ms remaining
+INFO:__main__:= TURN 139 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 99.030972 ms used, 400.969028 ms remaining
+INFO:__main__:10 diff iterations: 266.041994095 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 366.153002 ms used, 133.846998 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 366.483927 ms used, 133.516073 ms remaining
+INFO:proj.ants:== TURN 140 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.266968 ms used, 485.733032 ms remaining
+INFO:__main__:= TURN 140 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.734875 ms used, 421.265125 ms remaining
+INFO:__main__:16 diff iterations: 309.511184692 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 389.055967 ms used, 110.944033 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 389.282942 ms used, 110.717058 ms remaining
+INFO:proj.ants:== TURN 141 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 11.754990 ms used, 488.245010 ms remaining
+INFO:__main__:= TURN 141 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.078985 ms used, 421.921015 ms remaining
+INFO:__main__:15 diff iterations: 299.92890358 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 378.875971 ms used, 121.124029 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 379.102945 ms used, 120.897055 ms remaining
+INFO:proj.ants:== TURN 142 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 9.552002 ms used, 490.447998 ms remaining
+INFO:__main__:= TURN 142 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.199055 ms used, 423.800945 ms remaining
+INFO:__main__:16 diff iterations: 310.945987701 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.974977 ms used, 112.025023 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 388.205051 ms used, 111.794949 ms remaining
+INFO:proj.ants:== TURN 143 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 11.044979 ms used, 488.955021 ms remaining
+INFO:__main__:= TURN 143 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 75.385809 ms used, 424.614191 ms remaining
+INFO:__main__:16 diff iterations: 308.388948441 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 384.699821 ms used, 115.300179 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 384.927034 ms used, 115.072966 ms remaining
+INFO:proj.ants:== TURN 144 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.535976 ms used, 486.464024 ms remaining
+INFO:__main__:= TURN 144 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 85.199118 ms used, 414.800882 ms remaining
+INFO:__main__:11 diff iterations: 284.372091293 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 370.674133 ms used, 129.325867 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 371.006966 ms used, 128.993034 ms remaining
+INFO:proj.ants:== TURN 145 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.926029 ms used, 486.073971 ms remaining
+INFO:__main__:= TURN 145 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.157974 ms used, 422.842026 ms remaining
+INFO:__main__:16 diff iterations: 307.62887001 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.615826 ms used, 114.384174 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 385.836840 ms used, 114.163160 ms remaining
+INFO:proj.ants:== TURN 146 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.283117 ms used, 494.716883 ms remaining
+INFO:__main__:= TURN 146 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 72.548151 ms used, 427.451849 ms remaining
+INFO:__main__:16 diff iterations: 309.060096741 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.533073 ms used, 117.466927 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 382.758141 ms used, 117.241859 ms remaining
+INFO:proj.ants:== TURN 147 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 11.323929 ms used, 488.676071 ms remaining
+INFO:__main__:= TURN 147 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 75.490952 ms used, 424.509048 ms remaining
+INFO:__main__:16 diff iterations: 309.214115143 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.555029 ms used, 114.444971 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 385.776043 ms used, 114.223957 ms remaining
+INFO:proj.ants:== TURN 148 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 12.150049 ms used, 487.849951 ms remaining
+INFO:__main__:= TURN 148 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 83.338976 ms used, 416.661024 ms remaining
+INFO:__main__:13 diff iterations: 286.124944687 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 370.609999 ms used, 129.390001 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 370.945930 ms used, 129.054070 ms remaining
+INFO:proj.ants:== TURN 149 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.651060 ms used, 485.348940 ms remaining
+INFO:__main__:= TURN 149 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 79.826117 ms used, 420.173883 ms remaining
+INFO:__main__:16 diff iterations: 308.137893677 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 388.846159 ms used, 111.153841 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 389.067173 ms used, 110.932827 ms remaining
+INFO:proj.ants:== TURN 150 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.362978 ms used, 484.637022 ms remaining
+INFO:__main__:= TURN 150 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.671932 ms used, 421.328068 ms remaining
+INFO:__main__:16 diff iterations: 307.968854904 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 387.501955 ms used, 112.498045 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 387.723923 ms used, 112.276077 ms remaining
+INFO:proj.ants:== TURN 151 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.443832 ms used, 491.556168 ms remaining
+INFO:__main__:= TURN 151 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 72.700024 ms used, 427.299976 ms remaining
+INFO:__main__:16 diff iterations: 307.368993759 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.975008 ms used, 119.024992 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 381.196022 ms used, 118.803978 ms remaining
+INFO:proj.ants:== TURN 152 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.549814 ms used, 496.450186 ms remaining
+INFO:__main__:= TURN 152 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 70.039988 ms used, 429.960012 ms remaining
+INFO:__main__:16 diff iterations: 308.926105499 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.100965 ms used, 119.899035 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 380.322933 ms used, 119.677067 ms remaining
+INFO:proj.ants:== TURN 153 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 3.962994 ms used, 496.037006 ms remaining
+INFO:__main__:= TURN 153 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 70.785046 ms used, 429.214954 ms remaining
+INFO:__main__:16 diff iterations: 309.169054031 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.950928 ms used, 119.049072 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 381.180048 ms used, 118.819952 ms remaining
+INFO:proj.ants:== TURN 154 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.344961 ms used, 492.655039 ms remaining
+INFO:__main__:= TURN 154 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 72.627068 ms used, 427.372932 ms remaining
+INFO:__main__:16 diff iterations: 308.40420723 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.953955 ms used, 118.046045 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 382.181883 ms used, 117.818117 ms remaining
+INFO:proj.ants:== TURN 155 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.771875 ms used, 494.228125 ms remaining
+INFO:__main__:= TURN 155 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 72.536945 ms used, 427.463055 ms remaining
+INFO:__main__:14 diff iterations: 303.442955017 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 377.229929 ms used, 122.770071 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 377.559900 ms used, 122.440100 ms remaining
+INFO:proj.ants:== TURN 156 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.379128 ms used, 493.620872 ms remaining
+INFO:__main__:= TURN 156 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.719191 ms used, 425.280809 ms remaining
+INFO:__main__:16 diff iterations: 308.079957962 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 383.777142 ms used, 116.222858 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 384.005070 ms used, 115.994930 ms remaining
+INFO:proj.ants:== TURN 157 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 5.075932 ms used, 494.924068 ms remaining
+INFO:__main__:= TURN 157 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 71.255922 ms used, 428.744078 ms remaining
+INFO:__main__:16 diff iterations: 308.627128601 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.816936 ms used, 119.183064 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 381.042957 ms used, 118.957043 ms remaining
+INFO:proj.ants:== TURN 158 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 9.366035 ms used, 490.633965 ms remaining
+INFO:__main__:= TURN 158 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 91.609001 ms used, 408.390999 ms remaining
+INFO:__main__:11 diff iterations: 289.411067963 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.156134 ms used, 117.843866 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 382.486105 ms used, 117.513895 ms remaining
+INFO:proj.ants:== TURN 159 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 11.435032 ms used, 488.564968 ms remaining
+INFO:__main__:= TURN 159 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.906919 ms used, 423.093081 ms remaining
+INFO:__main__:16 diff iterations: 308.134078979 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 386.062860 ms used, 113.937140 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 386.487007 ms used, 113.512993 ms remaining
+INFO:proj.ants:== TURN 160 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 10.151863 ms used, 489.848137 ms remaining
+INFO:__main__:= TURN 160 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.135780 ms used, 425.864220 ms remaining
+INFO:__main__:16 diff iterations: 309.820175171 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 384.810925 ms used, 115.189075 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 385.033846 ms used, 114.966154 ms remaining
+INFO:proj.ants:== TURN 161 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 10.538101 ms used, 489.461899 ms remaining
+INFO:__main__:= TURN 161 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 73.899984 ms used, 426.100016 ms remaining
+INFO:__main__:14 diff iterations: 298.436164856 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 373.854160 ms used, 126.145840 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 374.111176 ms used, 125.888824 ms remaining
+INFO:proj.ants:== TURN 162 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 8.316040 ms used, 491.683960 ms remaining
+INFO:__main__:= TURN 162 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 90.500116 ms used, 409.499884 ms remaining
+INFO:__main__:10 diff iterations: 269.998073578 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 361.784935 ms used, 138.215065 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 362.118959 ms used, 137.881041 ms remaining
+INFO:proj.ants:== TURN 163 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 7.749796 ms used, 492.250204 ms remaining
+INFO:__main__:= TURN 163 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 93.325853 ms used, 406.674147 ms remaining
+INFO:__main__:11 diff iterations: 270.154953003 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 364.659786 ms used, 135.340214 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 364.990950 ms used, 135.009050 ms remaining
+INFO:proj.ants:== TURN 164 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 11.667967 ms used, 488.332033 ms remaining
+INFO:__main__:= TURN 164 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.642990 ms used, 423.357010 ms remaining
+INFO:__main__:16 diff iterations: 304.15391922 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 381.671906 ms used, 118.328094 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 381.891966 ms used, 118.108034 ms remaining
+INFO:proj.ants:== TURN 165 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 6.906986 ms used, 493.093014 ms remaining
+INFO:__main__:= TURN 165 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 69.106102 ms used, 430.893898 ms remaining
+INFO:__main__:16 diff iterations: 304.283857346 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 374.408007 ms used, 125.591993 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 374.631166 ms used, 125.368834 ms remaining
+INFO:proj.ants:== TURN 166 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.892982 ms used, 484.107018 ms remaining
+INFO:__main__:= TURN 166 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 100.290060 ms used, 399.709940 ms remaining
+INFO:__main__:11 diff iterations: 261.313915253 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 362.729073 ms used, 137.270927 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 363.092899 ms used, 136.907101 ms remaining
+INFO:proj.ants:== TURN 167 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 9.837866 ms used, 490.162134 ms remaining
+INFO:__main__:= TURN 167 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 92.547894 ms used, 407.452106 ms remaining
+INFO:__main__:11 diff iterations: 270.43390274 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 364.114046 ms used, 135.885954 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 364.441872 ms used, 135.558128 ms remaining
+INFO:proj.ants:== TURN 168 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 10.213137 ms used, 489.786863 ms remaining
+INFO:__main__:= TURN 168 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 72.377205 ms used, 427.622795 ms remaining
+INFO:__main__:16 diff iterations: 304.587841034 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 377.932072 ms used, 122.067928 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 378.158092 ms used, 121.841908 ms remaining
+INFO:proj.ants:== TURN 169 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 10.500193 ms used, 489.499807 ms remaining
+INFO:__main__:= TURN 169 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 74.506998 ms used, 425.493002 ms remaining
+INFO:__main__:16 diff iterations: 304.59189415 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 380.242109 ms used, 119.757891 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 380.472183 ms used, 119.527817 ms remaining
+INFO:proj.ants:== TURN 170 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.152952 ms used, 481.847048 ms remaining
+INFO:__main__:= TURN 170 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 95.692158 ms used, 404.307842 ms remaining
+INFO:__main__:11 diff iterations: 268.194913864 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 364.824057 ms used, 135.175943 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 365.048170 ms used, 134.951830 ms remaining
+INFO:proj.ants:== TURN 171 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.904997 ms used, 482.095003 ms remaining
+INFO:__main__:= TURN 171 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 109.141827 ms used, 390.858173 ms remaining
+INFO:__main__:10 diff iterations: 265.492916107 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.959873 ms used, 124.040127 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 376.298904 ms used, 123.701096 ms remaining
+INFO:proj.ants:== TURN 172 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 9.520054 ms used, 490.479946 ms remaining
+INFO:__main__:= TURN 172 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 76.304197 ms used, 423.695803 ms remaining
+INFO:__main__:14 diff iterations: 299.605846405 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 377.195120 ms used, 122.804880 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 377.544165 ms used, 122.455835 ms remaining
+INFO:proj.ants:== TURN 173 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.713049 ms used, 485.286951 ms remaining
+INFO:__main__:= TURN 173 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.849865 ms used, 422.150135 ms remaining
+INFO:__main__:16 diff iterations: 305.099010468 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 383.985996 ms used, 116.014004 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 384.214878 ms used, 115.785122 ms remaining
+INFO:proj.ants:== TURN 174 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.343904 ms used, 484.656096 ms remaining
+INFO:__main__:= TURN 174 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 78.063965 ms used, 421.936035 ms remaining
+INFO:__main__:16 diff iterations: 304.510831833 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 383.588076 ms used, 116.411924 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 383.819103 ms used, 116.180897 ms remaining
+INFO:proj.ants:== TURN 175 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 17.369986 ms used, 482.630014 ms remaining
+INFO:__main__:= TURN 175 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 79.223871 ms used, 420.776129 ms remaining
+INFO:__main__:16 diff iterations: 304.339170456 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 384.629965 ms used, 115.370035 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 384.867907 ms used, 115.132093 ms remaining
+INFO:proj.ants:== TURN 176 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.554024 ms used, 485.445976 ms remaining
+INFO:__main__:= TURN 176 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.429056 ms used, 422.570944 ms remaining
+INFO:__main__:16 diff iterations: 304.275989532 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.820129 ms used, 117.179871 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 383.045197 ms used, 116.954803 ms remaining
+INFO:proj.ants:== TURN 177 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.897989 ms used, 484.102011 ms remaining
+INFO:__main__:= TURN 177 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.898026 ms used, 422.101974 ms remaining
+INFO:__main__:16 diff iterations: 304.185152054 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 383.141041 ms used, 116.858959 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 383.383989 ms used, 116.616011 ms remaining
+INFO:proj.ants:== TURN 178 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 18.808126 ms used, 481.191874 ms remaining
+INFO:__main__:= TURN 178 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 81.238031 ms used, 418.761969 ms remaining
+INFO:__main__:16 diff iterations: 305.989980698 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 388.195992 ms used, 111.804008 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 388.423920 ms used, 111.576080 ms remaining
+INFO:proj.ants:== TURN 179 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 13.912916 ms used, 486.087084 ms remaining
+INFO:__main__:= TURN 179 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 77.959061 ms used, 422.040939 ms remaining
+INFO:__main__:16 diff iterations: 311.66100502 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 390.919924 ms used, 109.080076 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 391.149998 ms used, 108.850002 ms remaining
+INFO:proj.ants:== TURN 180 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.501022 ms used, 484.498978 ms remaining
+INFO:__main__:= TURN 180 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 89.717865 ms used, 410.282135 ms remaining
+INFO:__main__:12 diff iterations: 292.042970657 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 382.777929 ms used, 117.222071 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 383.000851 ms used, 116.999149 ms remaining
+INFO:proj.ants:== TURN 181 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 14.854193 ms used, 485.145807 ms remaining
+INFO:__main__:= TURN 181 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 99.471092 ms used, 400.528908 ms remaining
+INFO:__main__:11 diff iterations: 278.744935989 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 379.422188 ms used, 120.577812 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 379.646063 ms used, 120.353937 ms remaining
+INFO:proj.ants:== TURN 182 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 26.850939 ms used, 473.149061 ms remaining
+INFO:__main__:= TURN 182 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 95.393896 ms used, 404.606104 ms remaining
+INFO:__main__:11 diff iterations: 273.252010345 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 370.070934 ms used, 129.929066 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 370.404005 ms used, 129.595995 ms remaining
+INFO:proj.ants:== TURN 183 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 23.282051 ms used, 476.717949 ms remaining
+INFO:__main__:= TURN 183 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 86.219072 ms used, 413.780928 ms remaining
+INFO:__main__:16 diff iterations: 298.323154449 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 385.586023 ms used, 114.413977 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 385.813236 ms used, 114.186764 ms remaining
+INFO:proj.ants:== TURN 184 - Update - BEGINS ==
+DEBUG:proj.ants:TIME: 15.325069 ms used, 484.674931 ms remaining
+INFO:__main__:= TURN 184 - do_turn - BEGINS =
+DEBUG:proj.ants:AFTER DIFFUSION SETUP: 75.845003 ms used, 424.154997 ms remaining
+INFO:__main__:16 diff iterations: 297.900915146 ms
+DEBUG:proj.ants:BEFORE VISUALIZE: 375.380039 ms used, 124.619961 ms remaining
+INFO:__main__:VISUALIZE: False
+INFO:__main__:Most used: 400.284051895 ms
+DEBUG:proj.ants:FINAL: 375.630856 ms used, 124.369144 ms remaining
+INFO:proj.ants:== TURN 185 - Update - BEGINS ==

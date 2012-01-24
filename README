@@ -1,0 +1,8 @@
+OUAC# 2012-156363
+
+Versions of the bot starting from NumDiff requires the NumPy library to be installed in order to run.
+Code only tested in Linux.
+
+My work on the Fall 2011 AI Challenge, Ants, uses the default Python starter package as a base to work from. I used ideas from the Forums such as collaborative diffusion and Memetix's combat logic.
+
+
