@@ -3,6 +3,34 @@ OUAC# 2012-156363
 Versions of the bot starting from NumDiff requires the NumPy library to be installed in order to run.
 Code only tested in Linux.
 
-My work on the Fall 2011 AI Challenge, Ants, uses the default Python starter package as a base to work from. I used ideas from the Forums such as collaborative diffusion and Memetix's combat logic.
+To simulate a game:
+1. Edit ./play_match.sh options if needed (e.g. change "--turns" to larger number)
+2. Choose one of following:
+$ ./play_match.sh CombatBot.py
+$ ./play_match.sh CombatBot.py --log=DEBUG  # log located at game_logs/CombatBot.log
+$ ./v_play_match.sh CombatBot.py # launches debugging visualizer to display info for specific turns
 
+To profile code (after simulating a game):
+$ ./run_profiler.sh CombatBot.py
+$ python view_profile.py
 
+-----------------------------------------------------------
+
+My work on the Fall 2011 AI Challenge, Ants, uses the default Python starter package as a base to work from. I used ideas from the Forums such as collaborative diffusion and Memetix's combat logic. I also used the AI-state-visualizer provided at https://github.com/j-h-a/aichallenge/blob/vis_overlay/VIS_OVERLAY.md
+
+Username: VK_eipi
+Rank: 850/7897
+Description:
+"The AI Challenge of 2011 was in many ways a similar experience to the one of 2010. However, due to the larger map sizes and greater number of decisions to made with the different game, I was confronted with a major weakness of Python: its speed. I constantly ran into the time limits, which forced me optimize my code and to look for creative solutions. For instance, I used the external library NumPy for faster numerical processing and implemented a “collaborative diffusion” map to guide my bot’s actions instead of extensive pathfinding. I continued to use technical code maintenance skills such as debugging, logging changes, and commenting."
+
+Bot versions (detailed in bot docstrings and changelog.txt):
+StarterBot.py - same behaviour as default starter package but code edited/refactored
+TutorialBot.py - added behaviour of online tutorial but with better exploration code
+AstarBot.py - added A* searches; too slow
+DiffusionBot.py - switched to diffusion map for pathfinding
+    HackDiffBot.py - quick changes to make performance submission-ready
+NumDiffBot.py - began using NumPy library for optimization
+    NumDiffBot_006.py - final official submission for AI Challenge
+ExploreBot.py - increased exploration and "spreading out"
+CombatBot.py - added combat logic, but introduced some flaws/bugs
+             - contains most complete history in docstring
